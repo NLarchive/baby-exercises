@@ -1,0 +1,18 @@
+{
+  "name": "lifespan-activity-journal",
+  "version": "4.0.0",
+  "private": true,
+  "license": "AGPL-3.0-only",
+  "author": "Nicolas Ivan Larenas Bustamante",
+  "description": "A local activity journal with source-informed lifespan activities.",
+  "scripts": {
+    "test": "node tests/core.test.js && node tests/app.test.js",
+    "check": "node --check core.js && node --check app.js && node --check calendar.js && npm test",
+    "check:assets": "node tools/check-assets.js",
+    "build:pages": "node tools/prepare-publication.js site",
+    "export:github": "node tools/prepare-publication.js github"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

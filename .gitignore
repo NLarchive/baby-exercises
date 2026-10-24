@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+lifespan-journals-*.json
+.verification/
+*.[pP][nN][gG]
+.publication/
+.docs/

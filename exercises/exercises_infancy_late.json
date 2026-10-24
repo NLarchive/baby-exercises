@@ -1,0 +1,753 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "EX-019",
+    "lifespanStage": "infancy",
+    "minAge": 6,
+    "maxAge": 14,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "gross_motor",
+    "title": "Floor Mobility Exploration",
+    "goal": "Explore floor mobility exploration at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Offer safe floor time and place an interesting toy nearby.",
+      "Let baby choose rolling, scooting, creeping or crawling to approach it.",
+      "Stay close and allow rests; do not move the limbs to enforce a pattern."
+    ],
+    "completionCriteria": "Baby explores a safe space using their current way of moving; a particular crawling pattern or distance is not required.",
+    "safety": [
+      "Ensure the floor is clean and clear of cords, small items, or stair hazards.",
+      "Gates must secure any drop-offs."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-under5",
+      "cdc-9-months",
+      "aap-crawling"
+    ],
+    "imageUrl": "assets/infancy/late/EX-019-quadruped-reciprocal-crawling-circuit.webp",
+    "imageAlt": "AI-generated illustration: A 10-month-old infant on hands and knees crawling forward smoothly over a carpeted play area toward a bright rolling toy.",
+    "imagePrompt": "A 10-month-old infant on hands and knees crawling forward smoothly over a carpeted play area toward a bright rolling toy.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-017",
+      "EX-LAT-001"
+    ],
+    "preparationActivities": [
+      "EX-NEW-002"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-020",
+    "lifespanStage": "infancy",
+    "minAge": 9,
+    "maxAge": 12,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "working_memory",
+    "title": "Hidden Toy Search",
+    "goal": "Explore hidden toy search at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Let baby see you partly cover a large safe toy with one lightweight cloth.",
+      "Invite baby to find it; reveal more of the toy or help remove the cloth if wanted.",
+      "Progress to fully covering it only when the game remains enjoyable."
+    ],
+    "completionCriteria": "Baby looks for or uncovers a toy after watching it disappear under one cloth, with help if wanted.",
+    "safety": [
+      "Keep cloths away from the face and supervise within reach; remove them after play."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-9-months",
+      "cdc-1-year"
+    ],
+    "imageUrl": "assets/infancy/late/EX-020-two-cloth-object-permanence-search.webp",
+    "imageAlt": "AI-generated illustration: A 10-month-old infant seated on a play mat, reaching forward with both hands to uncover a wooden block hidden beneath a lightweight silk cloth.",
+    "imagePrompt": "A 10-month-old infant seated on a play mat, reaching forward with both hands to uncover a wooden block hidden beneath a lightweight silk cloth.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-025"
+    ],
+    "preparationActivities": [
+      "EX-NEW-007"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-021",
+    "lifespanStage": "infancy",
+    "minAge": 9,
+    "maxAge": 15,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "gross_motor",
+    "title": "Lateral Furniture Cruising & Weight-Shift",
+    "goal": "Explore lateral Furniture Cruising & Weight-Shift at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Place stable, low furniture (such as a sofa or activity table) in a clear, safe room.",
+      "Stand the infant up facing the furniture with both hands resting on the edge.",
+      "Place a toy 18 inches to their side to encourage lateral weight transfer and side-stepping.",
+      "Gradually separate furniture pieces by 4-6 inches to challenge single-hand reach across gaps."
+    ],
+    "completionCriteria": "Baby attempts sideways movement at stable furniture with close support.",
+    "safety": [
+      "Anchor all furniture to walls securely.",
+      "Pad sharp table corners."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-under5",
+      "cdc-1-year"
+    ],
+    "imageUrl": "assets/infancy/late/EX-021-lateral-furniture-cruising-weight-shift.webp",
+    "imageAlt": "AI-generated illustration: A 13-month-old toddler standing upright against a low living-room sofa, stepping sideways with one hand lightly touching the cushion.",
+    "imagePrompt": "A 13-month-old toddler standing upright against a low living-room sofa, stepping sideways with one hand lightly touching the cushion.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-LAT-001",
+      "EX-027"
+    ],
+    "preparationActivities": [
+      "EX-NEW-010"
+    ]
+  },
+  {
+    "id": "EX-023",
+    "lifespanStage": "infancy",
+    "minAge": 9,
+    "maxAge": 12,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "fine_motor",
+    "title": "Neat Pincer Grasp Precision",
+    "goal": "Explore neat Pincer Grasp Precision at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/infancy/late/EX-023-neat-pincer-grasp-precision.webp",
+    "imagePrompt": "An alert 11-month-old baby seated upright in a high chair under close adult supervision, using thumb and index fingertip to pinch and lift the broad securely sewn fabric tab on a large soft sensory book resting on the high-chair tray. Tab stays firmly attached to the book. Show the two-finger pincer action clearly. No beads, no small loose objects, no food, no cord.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Baby explores a securely attached tab using the thumb and fingers; precise trial counts are not required.",
+    "steps": [
+      "Seat the infant upright with support and an attentive caregiver nearby.",
+      "Place a large fabric sensory book with a broad, firmly sewn tab on the tray. Check that the tab cannot detach.",
+      "Model pinching the attached tab between thumb and index fingertip.",
+      "Let the infant attempt the pinch and lift without forcing their hand."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Use only securely attached tabs on age-appropriate toys; check seams before use. Never use loose beads or small felt balls.",
+      "Supervise continuously and stop for fatigue or distress."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: An alert 11-month-old baby seated upright in a high chair under close adult supervision, using thumb and index fingertip to pinch and lift the broad securely sewn fabric tab on a large soft sensory book resting on the high-chair tray. Tab stays firmly attached to the book. Show the two-finger pincer action clearly. No beads, no small loose objects, no food, no cord.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-016",
+      "EX-LAT-002",
+      "EX-LAT-005",
+      "EX-LAT-007",
+      "EX-LAT-010"
+    ],
+    "preparationActivities": [
+      "EX-NEW-003"
+    ]
+  },
+  {
+    "id": "EX-024",
+    "lifespanStage": "infancy",
+    "minAge": 9,
+    "maxAge": 15,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "social_gestures",
+    "title": "Reciprocal Social Gestures (Wave & Clap)",
+    "goal": "Explore reciprocal Social Gestures (Wave & Clap) at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/infancy/late/EX-024-reciprocal-social-gestures-wave-clap.webp",
+    "imagePrompt": "A 10-month-old baby sitting in a high chair smiling broadly, clapping both hands together in celebration as parents cheer enthusiastically.",
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "prerequisites": [],
+    "completionCriteria": "Baby attempts a social gesture such as waving or clapping; either can be practised separately.",
+    "steps": [
+      "Engage the infant in an interactive rhythm song (e.g., 'Pat-a-Cake' or 'If You're Happy and You Know It').",
+      "Model clapping with animated vocal praise, pausing to let the infant mirror the action.",
+      "When entering or leaving a room, wave your hand side-to-side while saying 'Bye-bye', prompting the infant to replicate the wrist wave.",
+      "Also respond to reaching up to be picked up or other requests; later model nodding or blowing a kiss without requiring imitation."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists",
+      "cdc-15-months"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 10-month-old baby sitting in a high chair smiling broadly, clapping both hands together in celebration as parents cheer enthusiastically.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-018",
+      "EX-LAT-004"
+    ],
+    "preparationActivities": [
+      "EX-NEW-007"
+    ]
+  },
+  {
+    "id": "EX-025",
+    "lifespanStage": "infancy",
+    "minAge": 11,
+    "maxAge": 14,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "spatial_relations",
+    "title": "Spatial Containment Drop & Retrieve",
+    "goal": "Explore spatial Containment Drop & Retrieve at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/infancy/late/EX-025-spatial-containment-drop-retrieve.webp",
+    "imagePrompt": "An 11-month-old sitting upright, carefully releasing a red wooden block over the opening of a clear plastic tub so it drops inside.",
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "prerequisites": [],
+    "completionCriteria": "Baby explores putting a large safe object into a container or taking it out, with help as wanted.",
+    "steps": [
+      "Sit with the infant on the floor with an open plastic bucket or container between you.",
+      "Hand the child a wooden block or ball.",
+      "Model holding the object over the opening and opening fingers to drop it in with an audible clatter.",
+      "Prompt the child to drop their object in, then dump the bucket out together to reset."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach.",
+      "Use large age-rated blocks or objects that cannot fit wholly into the mouth; inspect for detachable pieces."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: An 11-month-old sitting upright, carefully releasing a red wooden block over the opening of a clear plastic tub so it drops inside.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-020",
+      "EX-028",
+      "EX-022"
+    ],
+    "preparationActivities": [
+      "EX-NEW-006"
+    ],
+    "leadsTo": [
+      "EX-NEW-008",
+      "EX-NEW-014"
+    ]
+  },
+  {
+    "id": "EX-027",
+    "lifespanStage": "infancy",
+    "minAge": 9,
+    "maxAge": 18,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "gross_motor",
+    "title": "First Independent Steps & Toddler Gait Equilibrium",
+    "goal": "Explore first Independent Steps & Toddler Gait Equilibrium at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/infancy/late/EX-027-first-independent-steps-toddler-gait-equilibrium.webp",
+    "imagePrompt": "A 14-month-old toddler taking independent steps across a sunlit wooden living-room floor, arms held in high guard for balance with a proud expression.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child attempts a self-initiated step when ready; support and safe returns to the floor are welcome.",
+    "steps": [
+      "Position yourself seated on the floor 4-5 feet away from the standing toddler.",
+      "Open your arms and encourage them to let go of support and step toward you.",
+      "Allow them to use a wide base of support and 'high guard' arm posture.",
+      "Gradually increase the walking distance across open carpet or firm flooring."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists",
+      "cdc-15-months"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 14-month-old toddler taking independent steps across a sunlit wooden living-room floor, arms held in high guard for balance with a proud expression.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-021",
+      "EX-LAT-003",
+      "EX-ATT-003",
+      "EX-LAT-011",
+      "EX-LAT-012",
+      "EX-LAT-013",
+      "EX-LAT-016"
+    ],
+    "preparationActivities": [
+      "EX-NEW-010"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-ATT-002",
+    "lifespanStage": "infancy",
+    "minAge": 8,
+    "maxAge": 12,
+    "ageUnit": "months",
+    "domainType": "social_emotional",
+    "domainSubType": "social_referencing",
+    "title": "Joint Attention & Secure Social Referencing",
+    "goal": "Explore joint Attention & Secure Social Referencing at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Sit with the infant on the floor and introduce a novel, benign object (e.g., a textured mechanical wind-up toy) slightly out of reach.",
+      "Point at the object and say, 'Look! What's that?' to establish joint visual gaze.",
+      "As the baby approaches the object, observe them check your face.",
+      "Provide an encouraging nod, warm smile, and soothing vocal confirmation ('It's okay, you can touch it!')."
+    ],
+    "completionCriteria": "Caregiver and child share interest in an object, using looking, pointing, sounds or another cue.",
+    "safety": [
+      "Ensure all novelty items are completely safe, nontoxic, and free of choking hazards."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "who-care",
+      "cdc-9-months",
+      "cdc-1-year"
+    ],
+    "imageUrl": "assets/infancy/late/EX-ATT-002-joint-attention-secure-social-referencing.webp",
+    "imageAlt": "AI-generated illustration: A 9-month-old infant sitting on a play rug reaching toward a novel harmless toy, turning their head to look up at a reassuring, smiling parent before touching it.",
+    "imagePrompt": "A 9-month-old infant sitting on a play rug reaching toward a novel harmless toy, turning their head to look up at a reassuring, smiling parent before touching it.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-007",
+      "EX-018",
+      "EX-LAT-009"
+    ],
+    "leadsTo": [
+      "EX-NEW-009"
+    ]
+  },
+  {
+    "id": "EX-LAT-001",
+    "lifespanStage": "infancy",
+    "minAge": 8,
+    "maxAge": 12,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "gross_motor",
+    "title": "Pull-to-Stand at Vertical Furniture",
+    "goal": "Explore pull-to-Stand at Vertical Furniture at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/infancy/late/EX-LAT-001-pull-to-stand-at-vertical-furniture.webp",
+    "imagePrompt": "A 9-month-old infant transitioning from half-kneeling to pulling up to stand against a firm, low nursery sofa with hands holding the cushion.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Baby attempts to rise at stable furniture with support and practises returning safely to the floor.",
+    "steps": [
+      "Use low, stable furniture secured against tipping.",
+      "Place a toy within reach and allow baby to choose a way to rise, supporting the trunk if needed.",
+      "Stay within reach and help baby bend the knees to lower safely."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Secure furniture against tipping and avoid sharp edges or unstable tables.",
+      "Spot closely at the trunk; do not pull baby up by the arms."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists",
+      "cdc-1-year"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 9-month-old infant transitioning from half-kneeling to pulling up to stand against a firm, low nursery sofa with hands holding the cushion.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-019",
+      "EX-LAT-003",
+      "EX-021"
+    ],
+    "leadsTo": [
+      "EX-NEW-010",
+      "EX-NEW-016"
+    ]
+  },
+  {
+    "id": "EX-LAT-002",
+    "lifespanStage": "infancy",
+    "minAge": 6,
+    "maxAge": 18,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "self_care",
+    "title": "Finger-Food Self-Feeding Precision",
+    "goal": "Explore finger-Food Self-Feeding Precision at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/infancy/late/EX-LAT-002-finger-food-self-feeding-precision.webp",
+    "imagePrompt": "A 10-month-old infant seated upright in a high chair, carefully placing a small piece of steamed sweet potato into their mouth using a pincer grasp.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Baby explores bringing appropriately prepared food to the mouth at their own pace; mess and dropping are expected.",
+    "steps": [
+      "Seat baby upright in a secure feeding chair with an attentive caregiver.",
+      "Offer a small amount of appropriately prepared soft food matched to feeding readiness.",
+      "Let baby explore grasping and bringing food to the mouth at their own pace.",
+      "Allow mess and stop for signs of fullness or swallowing difficulty."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Child is feeding-ready, able to remain upright with appropriate support and interested in the offered food or drink. Use textures and assistance suited to current swallowing and motor skills.",
+    "safety": [
+      "Keep the child seated upright and supervise continuously. Use developmentally appropriate food textures and avoid choking hazards.",
+      "Offer small amounts, allow the child to set the pace, and stop if swallowing is difficult."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-feeding",
+      "cdc-choking",
+      "cdc-9-months"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 10-month-old infant seated upright in a high chair, carefully placing a small piece of steamed sweet potato into their mouth using a pincer grasp.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-023",
+      "EX-LAT-008"
+    ],
+    "preparationActivities": [
+      "EX-NEW-004"
+    ]
+  },
+  {
+    "id": "EX-LAT-003",
+    "lifespanStage": "infancy",
+    "minAge": 10,
+    "maxAge": 13.5,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "locomotor_equilibrium",
+    "title": "Caregiver-Supported Dual-Hand Stepping",
+    "goal": "Explore caregiver-Supported Dual-Hand Stepping at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/infancy/late/EX-LAT-003-caregiver-supported-dual-hand-stepping.webp",
+    "imagePrompt": "An 11-month-old infant practicing walking across a living room rug while holding both hands of a parent who is walking backwards in front of them.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Baby initiates a supported step while the caregiver provides balance without pulling the arms.",
+    "steps": [
+      "Only if baby voluntarily bears weight and wants to step, provide gentle balance support at the trunk or hands.",
+      "Keep hands low and allow baby to initiate each movement.",
+      "Pause or return to floor play whenever baby wants."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Never pull, lift or swing by the hands or arms.",
+      "Use a clear, non-slip surface and close adult support."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: An 11-month-old infant practicing walking across a living room rug while holding both hands of a parent who is walking backwards in front of them.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-LAT-001",
+      "EX-027"
+    ]
+  },
+  {
+    "id": "EX-LAT-005",
+    "lifespanStage": "infancy",
+    "minAge": 6,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "oral_motor",
+    "title": "Open Cup Drinking & Fluid Tilting",
+    "goal": "Explore open Cup Drinking & Fluid Tilting at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/infancy/late/EX-LAT-005-open-cup-drinking-fluid-tilting.webp",
+    "imagePrompt": "A 14-month-old toddler seated at a small table holding a tiny open silicone cup with two hands, drinking water with calm control.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child explores a small sip from a caregiver-supported cup; spills are expected.",
+    "steps": [
+      "Seat a feeding-ready baby upright and offer a small amount of water in an open cup.",
+      "Caregiver holds and gently tips the cup for a small sip; follow baby’s pace.",
+      "Allow more child control as ready; spilling is expected."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Child is feeding-ready, able to remain upright with appropriate support and interested in the offered food or drink. Use textures and assistance suited to current swallowing and motor skills.",
+    "safety": [
+      "Keep the child seated upright and supervise continuously. Use developmentally appropriate food textures and avoid choking hazards.",
+      "Offer small amounts, allow the child to set the pace, and stop if swallowing is difficult."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-feeding",
+      "cdc-choking",
+      "cdc-1-year",
+      "cdc-18-months"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 14-month-old toddler seated at a small table holding a tiny open silicone cup with two hands, drinking water with calm control.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [
+      "EX-023"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-010",
+    "lifespanStage": "infancy",
+    "minAge": 9,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "balance_transitions",
+    "title": "Supported Lowering and Toy Retrieval",
+    "goal": "Practise supported lowering and toy retrieval through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Stay close at stable furniture and offer a toy within easy reach.",
+      "Help baby lower by bending the knees, using support as needed.",
+      "Later invite a comfortable supported squat and return to standing; independent walking is not required."
+    ],
+    "completionCriteria": "Child attempts lowering or retrieving a toy with support suited to current balance.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "aap-crawling"
+    ],
+    "imageUrl": "assets/infancy/late/EX-NEW-010-supported-lowering-and-toy-retrieval-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Twelve-month-old bending knees to lower beside a low stable sofa toward a large toy on the floor, parent kneeling beside and gently supporting trunk, no pulling hands.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Twelve-month-old bending knees to lower beside a low stable sofa toward a large toy on the floor, parent kneeling beside and gently supporting trunk, no pulling hands. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "late",
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-LAT-001"
+    ],
+    "leadsTo": [
+      "EX-021",
+      "EX-027",
+      "EX-NEW-016"
+    ]
+  }
+]

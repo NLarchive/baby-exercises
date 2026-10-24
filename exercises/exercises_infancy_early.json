@@ -1,0 +1,705 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "EX-001",
+    "lifespanStage": "infancy",
+    "minAge": 0,
+    "maxAge": 1,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "tactile",
+    "title": "Kangaroo Skin-to-Skin",
+    "goal": "Explore kangaroo Skin-to-Skin at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Sit securely supported, fully awake and unlikely to fall asleep.",
+      "Place baby chest-to-chest with head turned to one side and head and neck supported.",
+      "Keep the face visible, nose and mouth clear, and observe breathing and comfort throughout."
+    ],
+    "completionCriteria": "Baby has a comfortable period of skin-to-skin contact with a fully awake caregiver and a clear airway.",
+    "safety": [
+      "If you feel sleepy, place baby on their back in a separate firm, flat safe sleep space.",
+      "Stop immediately for breathing difficulty or blue/grey lips or face and seek emergency help."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-care",
+      "cdc-2-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-001-kangaroo-skin-to-skin.webp",
+    "imageAlt": "AI-generated illustration: Close-up eye-level shot of a newborn infant wearing only a diaper, resting chest-to-chest on a parent's bare chest. Parent is reclined at a 45-degree angle in a softly lit room with warm ambient lighting.",
+    "imagePrompt": "Close-up eye-level shot of a newborn infant wearing only a diaper, resting chest-to-chest on a parent's bare chest. Parent is reclined at a 45-degree angle in a softly lit room with warm ambient lighting.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-003",
+      "EX-005",
+      "EX-ATT-001"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-002",
+    "lifespanStage": "infancy",
+    "minAge": 0,
+    "maxAge": 1,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "visual",
+    "title": "High-Contrast Gaze",
+    "goal": "Explore high-Contrast Gaze at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Lay the infant supine on a firm, safe surface in quiet ambient lighting.",
+      "Hold a high-contrast black-and-white target card 8 to 10 inches directly above their midline gaze.",
+      "Hold the visual card still for 10-15 seconds to allow binocular accommodation.",
+      "Watch for visual locking before moving the target."
+    ],
+    "completionCriteria": "Baby briefly looks at a face or high-contrast toy; pauses and looking away are expected.",
+    "safety": [
+      "Keep lights gentle to avoid glare.",
+      "Stop when baby turns away or shows signs of overstimulation."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-2-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-002-high-contrast-gaze.webp",
+    "imageAlt": "AI-generated illustration: A 3-week-old newborn lying supine on a firm white mattress, looking upward with wide eyes at a bold black-and-white geometric checkerboard card held 10 inches above eye level.",
+    "imagePrompt": "A 3-week-old newborn lying supine on a firm white mattress, looking upward with wide eyes at a bold black-and-white geometric checkerboard card held 10 inches above eye level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 2 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 2,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-007",
+      "EX-ATT-001"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-003",
+    "lifespanStage": "infancy",
+    "minAge": 0.5,
+    "maxAge": 1.5,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "vestibular",
+    "title": "Gentle Rock & Sway",
+    "goal": "Explore gentle Rock & Sway at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Hold baby close with head, neck and body securely supported.",
+      "Offer a small, slow sway while checking comfort; no fixed angle is needed."
+    ],
+    "completionCriteria": "Caregiver offers slow, securely supported rocking and responds to the baby’s comfort cues.",
+    "safety": [
+      "Never shake, bounce, or make rapid sudden movements.",
+      "Always cup and protect the cervical spine and head."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-care",
+      "cdc-2-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-003-gentle-rock-sway.webp",
+    "imageAlt": "AI-generated illustration: Side profile of an adult holding a 4-week-old infant securely along their forearm in a football carry, swaying gently in a calm home nursery.",
+    "imagePrompt": "Side profile of an adult holding a 4-week-old infant securely along their forearm in a football carry, swaying gently in a calm home nursery.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-001",
+      "EX-006"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-004",
+    "lifespanStage": "infancy",
+    "minAge": 0,
+    "maxAge": 4,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "auditory",
+    "title": "Voice Orientation Play",
+    "goal": "Explore voice Orientation Play at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Talk or sing softly near baby while awake and comfortable.",
+      "Pause to notice any response; try another position without expecting consistent head turns."
+    ],
+    "completionCriteria": "Baby has an opportunity to hear a familiar gentle voice and may pause, look or move in response.",
+    "safety": [
+      "Keep volume moderate and tone gentle.",
+      "Do not force head turning physically."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-2-months",
+      "cdc-4-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-004-voice-orientation-play.webp",
+    "imageAlt": "AI-generated illustration: A parent leaning over an alert 5-week-old infant resting on a nursery mat, speaking softly to the baby's left side as the infant shifts eyes toward the sound.",
+    "imagePrompt": "A parent leaning over an alert 5-week-old infant resting on a nursery mat, speaking softly to the baby's left side as the infant shifts eyes toward the sound.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 2 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 2,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-009"
+    ],
+    "leadsTo": [
+      "EX-NEW-001"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-005",
+    "lifespanStage": "infancy",
+    "minAge": 1,
+    "maxAge": 2,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "tactile",
+    "title": "Fabric Texture Swipes",
+    "goal": "Explore fabric Texture Swipes at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Offer a clean soft fabric against the hand during awake play.",
+      "Let baby grasp, release or turn away; do not rub to suppress a reflex or pry fingers open."
+    ],
+    "completionCriteria": "Baby comfortably experiences a clean, soft fabric touching the hand; grasping or withdrawing is accepted.",
+    "safety": [
+      "Ensure fabrics are clean, lint-free, and safe from loose threads.",
+      "Never pull or pry fingers open forcibly."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-2-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-005-fabric-texture-swipes.webp",
+    "imageAlt": "AI-generated illustration: Macro photograph of a 6-week-old infant's open hand being gently stroked across a piece of textured corduroy fabric by a parent's finger.",
+    "imagePrompt": "Macro photograph of a 6-week-old infant's open hand being gently stroked across a piece of textured corduroy fabric by a parent's finger.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-001",
+      "EX-010"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-006",
+    "lifespanStage": "infancy",
+    "minAge": 0,
+    "maxAge": 4,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "proprioceptive",
+    "title": "Chest-to-Chest Tummy Time",
+    "goal": "Explore chest-to-Chest Tummy Time at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Sit securely supported and fully awake; place baby tummy-down on your chest with head and neck supported.",
+      "Speak softly and allow a brief attempt to lift or turn the head.",
+      "Start with a brief tolerated opportunity and build gradually; stop before fatigue."
+    ],
+    "completionCriteria": "Baby has a brief comfortable awake chest-tummy opportunity with head and airway supported as needed.",
+    "safety": [
+      "Only while baby and caregiver are fully awake; supervise continuously within reach.",
+      "Keep nose and mouth clear; stop for fatigue or distress. Use back sleeping on a separate firm, flat sleep surface when baby is sleepy."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-under5",
+      "cdc-2-months",
+      "nhs-baby-active"
+    ],
+    "imageUrl": "assets/infancy/early/EX-006-chest-to-chest-tummy-time.webp",
+    "imageAlt": "AI-generated illustration: A 6-week-old infant lying prone on a mother's chest, lifting chin 30 degrees to make direct eye contact with the smiling parent.",
+    "imagePrompt": "A 6-week-old infant lying prone on a mother's chest, lifting chin 30 degrees to make direct eye contact with the smiling parent.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-003",
+      "EX-008"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-007",
+    "lifespanStage": "infancy",
+    "minAge": 1.5,
+    "maxAge": 2.5,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "visual",
+    "title": "Horizontal Face Tracking",
+    "goal": "Explore horizontal Face Tracking at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Offer your face within comfortable viewing distance.",
+      "Move slowly a short way left or right, pausing for baby to refocus or rest."
+    ],
+    "completionCriteria": "Baby watches a slowly moving face for part of its path, with pauses to refocus.",
+    "safety": [
+      "Move smoothly and avoid fast erratic movements.",
+      "Allow pauses when baby blinks or disengages."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-2-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-007-horizontal-face-tracking.webp",
+    "imageAlt": "AI-generated illustration: Front view of an 8-week-old infant lying supine, smoothly tracking a smiling parent's face as it moves horizontally across their field of view.",
+    "imagePrompt": "Front view of an 8-week-old infant lying supine, smoothly tracking a smiling parent's face as it moves horizontally across their field of view.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 2 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 2,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-002",
+      "EX-ATT-002",
+      "EX-011"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-008",
+    "lifespanStage": "infancy",
+    "minAge": 0,
+    "maxAge": 6,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "vestibular",
+    "title": "Floor-Mat Tummy Time",
+    "goal": "Explore floor-Mat Tummy Time at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Place awake baby tummy-down on a clear, firm floor mat with caregiver beside them.",
+      "Place your face or a safe toy nearby and allow brief attempts to lift or turn the head.",
+      "Use short tolerated opportunities and gradually increase time across the day."
+    ],
+    "completionCriteria": "Baby has a brief awake floor-tummy opportunity and attempts to lift or turn the head with help as needed.",
+    "safety": [
+      "Only while baby and caregiver are fully awake; supervise continuously within reach.",
+      "Keep nose and mouth clear; stop for fatigue or distress. Use back sleeping on a separate firm, flat sleep surface when baby is sleepy."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-under5",
+      "cdc-2-months",
+      "nhs-baby-active"
+    ],
+    "imageUrl": "assets/infancy/early/EX-008-floor-mat-tummy-time.webp",
+    "imageAlt": "AI-generated illustration: Floor-level wide shot of an 8-week-old baby prone on a firm, padded mat, lifting head 45 degrees while gazing at a mirror placed in front of them.",
+    "imagePrompt": "Floor-level wide shot of an 8-week-old baby prone on a firm, padded mat, lifting head 45 degrees while gazing at a mirror placed in front of them.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-006",
+      "EX-012"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-009",
+    "lifespanStage": "infancy",
+    "minAge": 2,
+    "maxAge": 4,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "auditory",
+    "title": "Soft Rattle Locator",
+    "goal": "Explore soft Rattle Locator at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Lay infant supine in a quiet environment.",
+      "Shake a gentle rattle 12 inches lateral to one ear, keeping the object outside their immediate visual field.",
+      "Observe head turn toward the sound; once oriented, bring the rattle into view as a reward.",
+      "Repeat on the contralateral side."
+    ],
+    "completionCriteria": "Baby notices a gentle sound; consistent head turning to both sides is not required.",
+    "safety": [
+      "Use lightweight, smooth rattle with no sharp edges.",
+      "Keep sound level gentle and soothing."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-2-months",
+      "cdc-4-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-009-soft-rattle-locator.webp",
+    "imageAlt": "AI-generated illustration: A 10-week-old infant lying on a play mat, turning head and eyes toward a soft pastel rattle held 12 inches to the right side.",
+    "imagePrompt": "A 10-week-old infant lying on a play mat, turning head and eyes toward a soft pastel rattle held 12 inches to the right side.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 2 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 2,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-004",
+      "EX-014"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-010",
+    "lifespanStage": "infancy",
+    "minAge": 2,
+    "maxAge": 4,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "proprioceptive",
+    "title": "Hand-to-Mouth Discovery",
+    "goal": "Explore hand-to-Mouth Discovery at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Lay infant supine with head aligned neutrally.",
+      "Gently bring both of the infant's hands together over their sternum.",
+      "Lightly stroke the dorsal side of the fingers until the infant grasps their own hands or guides a fist to mouth."
+    ],
+    "completionCriteria": "Baby explores hands near the body or mouth without forced positioning.",
+    "safety": [
+      "Ensure infant's hands and nails are clean.",
+      "Keep sleeves loose and unobstructed."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-2-months",
+      "cdc-4-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-010-hand-to-mouth-discovery.webp",
+    "imageAlt": "AI-generated illustration: A 10-week-old infant lying supine on a pastel quilt, holding both hands together at the midline near the mouth with an engaged expression.",
+    "imagePrompt": "A 10-week-old infant lying supine on a pastel quilt, holding both hands together at the midline near the mouth with an engaged expression.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-005",
+      "EX-013",
+      "EX-MID-002"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-ATT-001",
+    "lifespanStage": "infancy",
+    "minAge": 2,
+    "maxAge": 4,
+    "ageUnit": "months",
+    "domainType": "social_emotional",
+    "domainSubType": "attachment",
+    "title": "Dyadic Mutual Gaze & Affective Mirroring",
+    "goal": "Explore dyadic Mutual Gaze & Affective Mirroring at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Position infant semi-reclined in your lap, supporting head and neck so your eyes are 8-12 inches apart.",
+      "Wait for infant to establish direct eye contact; meet their gaze with a soft, warm smile.",
+      "When the infant smiles or vocalizes, immediately mirror their facial expression and vocal tone with a slight nod.",
+      "If the infant looks away, respect the pause and maintain a calm, welcoming posture until they re-engage."
+    ],
+    "completionCriteria": "Caregiver responds warmly to a look, smile or sound and pauses when baby looks away.",
+    "safety": [
+      "Never force direct eye contact if infant looks away to self-regulate.",
+      "Keep vocal volume gentle and warm."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "who-care",
+      "cdc-2-months",
+      "cdc-4-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-ATT-001-dyadic-mutual-gaze-affective-mirroring.webp",
+    "imageAlt": "AI-generated illustration: Close-up eye-level portrait of a mother and her 3-month-old infant engaged in mutual gaze smiling at each other, 10 inches apart, warm indoor lighting, high emotional connection.",
+    "imagePrompt": "Close-up eye-level portrait of a mother and her 3-month-old infant engaged in mutual gaze smiling at each other, 10 inches apart, warm indoor lighting, high emotional connection.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [
+      "EX-001",
+      "EX-002"
+    ],
+    "leadsTo": [
+      "EX-NEW-001",
+      "EX-NEW-007",
+      "EX-NEW-015"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-001",
+    "lifespanStage": "infancy",
+    "minAge": 2,
+    "maxAge": 6,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "sound_play",
+    "title": "Cooing and Sound Duets",
+    "goal": "Practise cooing and sound duets through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Respond warmly to any sound, smile or movement.",
+      "Copy a comfortable vowel sound, pause and follow the baby’s response."
+    ],
+    "completionCriteria": "Baby and caregiver enjoy a responsive sound exchange without requiring a particular sound.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-4-months",
+      "cdc-6-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-NEW-001-cooing-and-sound-duets-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Parent at eye level with a comfortable awake three-month-old baby, smiling and copying a gentle coo with an open relaxed mouth, baby looking interested, supported in parent’s lap.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Parent at eye level with a comfortable awake three-month-old baby, smiling and copying a gentle coo with an open relaxed mouth, baby looking interested, supported in parent’s lap. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-004",
+      "EX-ATT-001"
+    ],
+    "leadsTo": [
+      "EX-018"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-012",
+    "lifespanStage": "infancy",
+    "minAge": 0,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "shared_reading",
+    "title": "Shared Picture Books",
+    "goal": "Practise shared picture books through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Hold or position baby comfortably with support.",
+      "Look at a sturdy book together and describe a picture that interests them.",
+      "Respond to sounds or gestures and stop when attention fades."
+    ],
+    "completionCriteria": "Caregiver and child share a brief enjoyable book interaction without a page-turning test.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-6-months",
+      "cdc-9-months"
+    ],
+    "imageUrl": "assets/infancy/early/EX-NEW-012-shared-picture-books-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Awake young infant supported in a seated parent’s arms while they share a sturdy colorful picture book, parent pointing to a simple animal illustration.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Awake young infant supported in a seated parent’s arms while they share a sturdy colorful picture book, parent pointing to a simple animal illustration. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "stagePart": "early",
+    "relatedActivities": [],
+    "preparationActivities": [],
+    "leadsTo": [
+      "EX-LAT-010",
+      "EX-LAT-004"
+    ]
+  }
+]

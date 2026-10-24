@@ -1,0 +1,642 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-001",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "aerobic",
+    "title": "Adaptable Aerobic Activity",
+    "goal": "Explore adaptable Aerobic Activity at a comfortable, adaptable level.",
+    "readiness": "Adult engages in regular baseline aerobic exercise without chest pain or dizziness.",
+    "steps": [
+      "Choose a familiar enjoyable aerobic activity and start easily.",
+      "Increase effort only to a personally manageable pace; at moderate intensity you can talk but not sing.",
+      "Alternate activity and easy recovery as desired, then finish gradually; no fixed heart-rate zone is required."
+    ],
+    "completionCriteria": "Participant completes a comfortable bout of aerobic movement with a warm-up, rests and cool-down as needed.",
+    "safety": [
+      "Stop for chest pain, faintness or unusual breathlessness and seek medical advice as appropriate.",
+      "Start with manageable amounts and build gradually; adapt to health conditions and professional advice."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-activity-2020",
+      "cdc-intensity"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-001-vo2-max-cardiorespiratory-builder.webp",
+    "imageAlt": "AI-generated illustration: An athlete running with focused, controlled breathing on an outdoor asphalt trail surrounded by greenery.",
+    "imagePrompt": "An athlete running with focused, controlled breathing on an outdoor asphalt trail surrounded by greenery.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 35 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 35,
+      "strenuous": true
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "LS-EAD-013"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-002",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "identity",
+    "title": "Core Values Career Mapping & Vocational Strategy",
+    "goal": "Explore core Values Career Mapping & Vocational Strategy at a comfortable, adaptable level.",
+    "readiness": "Adult explores career paths, higher education, or vocational apprenticeships.",
+    "steps": [
+      "Identify top 5 foundational life values (Autonomy, Mastery, Family, Security, Impact).",
+      "Audit current vocational pursuits against these 5 metrics.",
+      "Formulate a 3-year strategic development plan with quantifiable skill checkpoints."
+    ],
+    "completionCriteria": "Produces a written 3-year career development roadmap with verifiable milestones mapped to 5 core life values.",
+    "safety": [
+      "Recognize that career pivots are normal; plans serve as guides rather than rigid scripts."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "nia-aging"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-002-core-values-career-mapping-vocational-strategy.webp",
+    "imageAlt": "AI-generated illustration: A young professional analyzing an organized whiteboard map of professional goals, values, and milestone timelines.",
+    "imagePrompt": "A young professional analyzing an organized whiteboard map of professional goals, values, and milestone timelines.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 60 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 60,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-EAD-008"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-003",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "attachment",
+    "title": "Vulnerability & Intimacy Communication Audit",
+    "goal": "Explore vulnerability & Intimacy Communication Audit at a comfortable, adaptable level.",
+    "readiness": "Adult maintains close friendships or romantic partnerships.",
+    "steps": [
+      "Schedule uninterrupted, screen-free time with partner or close friend.",
+      "Use a structured 3-part prompt: (a) Share an insecurity or fear from the past week, (b) Express an unmet need without accusation, (c) Acknowledge a gratitude.",
+      "Partner reflects back what they heard without offering unsolicited fixes or defense."
+    ],
+    "completionCriteria": "Participant tries a mutually agreed check-in; either person may decline a topic or stop.",
+    "safety": [
+      "Ensure mutual trust and voluntary consent before sharing sensitive vulnerabilities."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-003-vulnerability-intimacy-communication-audit.webp",
+    "imageAlt": "AI-generated illustration: Two young adults seated across from each other on a sofa, engaged in an earnest, open conversation with calm posture and eye contact.",
+    "imagePrompt": "Two young adults seated across from each other on a sofa, engaged in an earnest, open conversation with calm posture and eye contact.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 35 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 35,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-EAD-011",
+      "LS-EAD-012"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-004",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "negotiation",
+    "title": "Principled Interest-Based Professional Negotiation",
+    "goal": "Explore principled Interest-Based Professional Negotiation at a comfortable, adaptable level.",
+    "readiness": "Adult navigates employment contracts, compensation, or housing leases.",
+    "steps": [
+      "Outline a current vocational or personal negotiation (salary, deliverables, responsibilities).",
+      "Map underlying interests of both sides (needs, fears, priorities) rather than entrenched positions.",
+      "Formulate 2 integrative options for mutual gain using objective market benchmarks.",
+      "Roleplay dialogue maintaining calm, collaborative phrasing."
+    ],
+    "completionCriteria": "Participant prepares or rehearses a clear request and possible options; reaching agreement is not required.",
+    "safety": [
+      "Stay solution-oriented and objective; avoid emotional ultimatum language."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-004-principled-interest-based-professional-negotiation.webp",
+    "imageAlt": "AI-generated illustration: A young professional seated at a glass conference table presenting mutually beneficial proposals calmly to a colleague.",
+    "imagePrompt": "A young professional seated at a glass conference table presenting mutually beneficial proposals calmly to a colleague.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 30 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 30,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-EAD-009"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-005",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "hypertrophy_strength",
+    "title": "Progressive Strength Practice",
+    "goal": "Explore progressive Strength Practice at a comfortable, adaptable level.",
+    "readiness": "Adult possesses sound bodyweight squat and hip-hinge mechanics.",
+    "steps": [
+      "Choose a supported squat, sit-to-stand, wall push or other suitable resistance movement.",
+      "Begin with body weight or a manageable light resistance, using a stable support as needed.",
+      "Move through a comfortable range while breathing normally; rest before form becomes difficult.",
+      "Increase resistance gradually only when the current version is comfortable; seek instruction for loaded techniques."
+    ],
+    "completionCriteria": "Participant practises a suitable strength movement with a manageable load, normal breathing and rest.",
+    "safety": [
+      "Do not use body-weight percentages or maximal lifting as a required target.",
+      "Avoid breath holding and stop for pain, dizziness or chest symptoms."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "nhs-strength",
+      "who-activity-2020"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-005-compound-multi-joint-axial-loading-protocol.webp",
+    "imageAlt": "AI-generated illustration: An athlete performing a textbook barbell back squat with neutral spine and parallel thigh depth in a gym.",
+    "imagePrompt": "An athlete performing a textbook barbell back squat with neutral spine and parallel thigh depth in a gym.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 45,
+      "strenuous": true
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-006",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "joint_resilience",
+    "title": "Comfortable Mobility Practice",
+    "goal": "Explore comfortable Mobility Practice at a comfortable, adaptable level.",
+    "readiness": "Adult performs basic mobility drills without acute joint inflammation.",
+    "steps": [
+      "Choose a comfortable supported reach, gentle hip movement or easy floor transition.",
+      "Move slowly within a pain-free range with a stable support if needed.",
+      "Keep advanced loaded get-ups, deep squats and passive hanging optional and seek qualified instruction before attempting them."
+    ],
+    "completionCriteria": "Participant tries a comfortable mobility movement without pain; advanced loaded skills are not required.",
+    "safety": [
+      "Do not force joint range or hang from a bar to treat pain.",
+      "Stop for pain, instability or dizziness."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-movement"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-006-multi-planar-functional-mobility-tissue-longevity.webp",
+    "imageAlt": "AI-generated illustration: An adult practicing kettlebell Turkish get-ups with serene balance and control in a bright studio.",
+    "imagePrompt": "An adult practicing kettlebell Turkish get-ups with serene balance and control in a bright studio.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [
+      "LS-EAD-005"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-007",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "financial_cognition",
+    "title": "Comprehensive Financial Budget & Compound Wealth Modeling",
+    "goal": "Explore comprehensive Financial Budget & Compound Wealth Modeling at a comfortable, adaptable level.",
+    "readiness": "Adult manages monthly earnings, rent, or bill commitments.",
+    "steps": [
+      "List income, necessary expenses and priorities using actual or fictional amounts.",
+      "Choose a feasible savings step suited to current circumstances, including a very small amount or a future plan.",
+      "Use hypothetical projections only as illustrations; no investment product or fixed reserve is required."
+    ],
+    "completionCriteria": "Participant makes a realistic spending or savings plan using available resources; a savings balance or investment purchase is not required.",
+    "safety": [
+      "Avoid high-interest consumer debt; consult accredited financial fiduciaries."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cfpb-savings"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-007-comprehensive-financial-budget-compound-wealth-modeling.webp",
+    "imageAlt": "AI-generated illustration: A person analyzing personal cash-flow spreadsheets and retirement compound growth projections on a laptop.",
+    "imagePrompt": "A person analyzing personal cash-flow spreadsheets and retirement compound growth projections on a laptop.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 45,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-008",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "deep_work",
+    "title": "Deliberate Deep Work & Attentional Focus Blocks",
+    "goal": "Explore deliberate Deep Work & Attentional Focus Blocks at a comfortable, adaptable level.",
+    "readiness": "Adult manages demanding cognitive projects with tight deliverables.",
+    "steps": [
+      "Choose one meaningful task and a personally manageable focus period.",
+      "Reduce avoidable interruptions and keep accessibility aids available.",
+      "Take movement and eye breaks as needed, then note a next step."
+    ],
+    "completionCriteria": "Participant tries a personally suitable focus period with planned breaks and records a next step.",
+    "safety": [
+      "Take 10-minute movement and eye breaks following deep focus blocks."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "nia-aging"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-008-deliberate-deep-work-attentional-focus-blocks.webp",
+    "imageAlt": "AI-generated illustration: A researcher in a minimalist study, deeply engrossed in complex problem solving with smartphone placed in another room.",
+    "imagePrompt": "A researcher in a minimalist study, deeply engrossed in complex problem solving with smartphone placed in another room.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 90 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 90,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-EAD-002"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-009",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "executive_writing",
+    "title": "Executive Briefing & High-Density Synthesis Writing",
+    "goal": "Explore executive Briefing & High-Density Synthesis Writing at a comfortable, adaptable level.",
+    "readiness": "Adult prepares work reports, emails, or project proposals.",
+    "steps": [
+      "Take a complex multi-page report or operational hurdle.",
+      "Draft an executive 1-page briefing using the BLUF (Bottom Line Up Front) framework: Problem, Financial/Operational Impact, 3 Options, Recommended Action.",
+      "Edit ruthlessly to remove passive voice and unnecessary jargon."
+    ],
+    "completionCriteria": "Produces a clear 1-page executive briefing memo that effectively communicates complex operational recommendations to colleagues.",
+    "safety": [
+      "Double-check all factual data points and confidentiality guidelines before sharing."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-009-executive-briefing-high-density-synthesis-writing.webp",
+    "imageAlt": "AI-generated illustration: A professional writing a clean one-page executive memo summarizing complex market data with clean bulleted recommendations.",
+    "imagePrompt": "A professional writing a clean one-page executive memo summarizing complex market data with clean bulleted recommendations.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 45,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-EAD-004"
+    ],
+    "suggestedBefore": [
+      "LS-EAD-010"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-010",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "empathic_mediation",
+    "title": "Non-Violent Mediation & High-Stakes Conflict De-escalation",
+    "goal": "Explore non-Violent Mediation & High-Stakes Conflict De-escalation at a comfortable, adaptable level.",
+    "readiness": "Adult manages workplace teams, customer disputes, or domestic partnerships.",
+    "steps": [
+      "Use a fictional or low-stakes safe disagreement.",
+      "Practise describing an observation, feeling, need and request, then listening.",
+      "Allow disagreement or stop the discussion; do not use mediation where there is intimidation or coercion."
+    ],
+    "completionCriteria": "Participant rehearses listening and making a clear request in a safe scenario; conflict resolution is not required.",
+    "safety": [
+      "Maintain neutral mediator composure; do not take partisan sides."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-010-non-violent-mediation-high-stakes-conflict-de-escalation.webp",
+    "imageAlt": "AI-generated illustration: An adult mediating an earnest conversation between two colleagues in an office lounge, facilitating mutual understanding.",
+    "imagePrompt": "An adult mediating an earnest conversation between two colleagues in an office lounge, facilitating mutual understanding.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 30 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 30,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-EAD-009"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-011",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "community_solidarity",
+    "title": "Community Civic Engagement & Social Capital Building",
+    "goal": "Explore community Civic Engagement & Social Capital Building at a comfortable, adaptable level.",
+    "readiness": "Adult seeks deeper connection to local neighborhood or civic causes.",
+    "steps": [
+      "Choose an accessible community contribution, including remote or short opportunities.",
+      "Agree on a manageable commitment and review whether it fits your resources.",
+      "Reflect on the experience without an hour target."
+    ],
+    "completionCriteria": "Participant explores an accessible way to contribute to a chosen community; no hour minimum is required.",
+    "safety": [
+      "Choose verified, safe non-profit or civic organizations."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-011-community-civic-engagement-social-capital-building.webp",
+    "imageAlt": "AI-generated illustration: A person smiling while volunteering alongside neighbors at a community garden building raised vegetable beds.",
+    "imagePrompt": "A person smiling while volunteering alongside neighbors at a community garden building raised vegetable beds.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 60 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 60,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-EAD-003"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-012",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "co_regulation_parenting",
+    "title": "Parental/Caregiver Dyadic Co-Regulation & Attunement",
+    "goal": "Explore parental/Caregiver Dyadic Co-Regulation & Attunement at a comfortable, adaptable level.",
+    "readiness": "Adult cares for children, nieces/nephews, or younger family dependents.",
+    "steps": [
+      "During child or family member distress, breathe deeply to down-regulate your own sympathetic nervous system first.",
+      "Kneel to eye level and offer physical comfort before offering verbal explanations.",
+      "Name and validate their emotion: 'You are feeling disappointed because it's time to leave; it is hard to stop playing'.",
+      "Hold boundaries firmly with loving composure."
+    ],
+    "completionCriteria": "Participant tries a supportive response to another person’s feelings and may pause or seek help.",
+    "safety": [
+      "Remember that co-regulation requires the adult to regulate first before expecting the child to calm down."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "who-care",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-012-parental-caregiver-dyadic-co-regulation-attunement.webp",
+    "imageAlt": "AI-generated illustration: A parent kneeling down to calm a crying child with a warm embrace and soothing, composed facial expression.",
+    "imagePrompt": "A parent kneeling down to calm a crying child with a warm embrace and soothing, composed facial expression.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-EAD-003"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-EAD-013",
+    "lifespanStage": "early_adulthood",
+    "minAge": 18,
+    "maxAge": 40,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "aerobic_routine",
+    "title": "Everyday Aerobic Movement",
+    "goal": "Try an accessible aerobic activity and choose a feasible routine.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Choose enjoyable accessible movement such as walking, wheeling, cycling or seated aerobic activity, and try a short comfortable bout with rests as needed.",
+      "Start with a comfortable amount and build gradually toward adult guidance: 150–300 minutes of moderate or 75–150 minutes of vigorous aerobic activity per week.",
+      "Include strengthening on at least 2 days; at ages 65 and older also plan balance and strength-focused multicomponent activity on at least 3 days, adapted to ability.",
+      "Short bouts can contribute to activity totals; the optional journal session length is not the whole weekly target."
+    ],
+    "completionCriteria": "Participant chooses an accessible activity and a feasible next step without a fitness threshold.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-activity-2020",
+      "cdc-intensity"
+    ],
+    "imageUrl": "assets/adulthood/early/LS-EAD-013-everyday-aerobic-activity-planning-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Adult wheelchair user in their twenties enjoying self-propelled movement along a wide level accessible park path beside a friend, warm inclusive ordinary scene.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Adult wheelchair user in their twenties enjoying self-propelled movement along a wide level accessible park path beside a friend, warm inclusive ordinary scene. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [],
+    "leadsTo": [
+      "LS-EAD-001"
+    ]
+  }
+]

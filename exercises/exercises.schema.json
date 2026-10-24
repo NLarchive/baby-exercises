@@ -1,0 +1,248 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ExerciseDataset",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "schemaVersion",
+      "id",
+      "title",
+      "lifespanStage",
+      "minAge",
+      "maxAge",
+      "ageUnit",
+      "domainType",
+      "domainSubType",
+      "goal",
+      "readiness",
+      "steps",
+      "completionCriteria",
+      "safety",
+      "adaptations",
+      "benefits",
+      "sources",
+      "imageUrl",
+      "imageAlt",
+      "imagePrompt",
+      "reps",
+      "duration",
+      "schedule",
+      "prerequisites",
+      "suggestedBefore",
+      "kind",
+      "reviewStatus",
+      "reviewedAt",
+      "complexity"
+    ],
+    "properties": {
+      "schemaVersion": {
+        "const": 1
+      },
+      "id": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_-]{1,80}$"
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "lifespanStage": {
+        "type": "string",
+        "enum": [
+          "infancy",
+          "toddlerhood",
+          "early_childhood",
+          "middle_childhood",
+          "adolescence",
+          "early_adulthood",
+          "middle_adulthood",
+          "late_adulthood"
+        ]
+      },
+      "minAge": {
+        "type": "number",
+        "minimum": 0
+      },
+      "maxAge": {
+        "type": "number",
+        "minimum": 0
+      },
+      "ageUnit": {
+        "type": "string",
+        "enum": [
+          "months",
+          "years"
+        ]
+      },
+      "domainType": {
+        "type": "string",
+        "enum": [
+          "physical_motor",
+          "cognitive",
+          "language_comm",
+          "social_emotional"
+        ]
+      },
+      "domainSubType": {
+        "type": "string",
+        "minLength": 1
+      },
+      "goal": {
+        "type": "string",
+        "minLength": 1
+      },
+      "readiness": {
+        "type": "string",
+        "minLength": 1
+      },
+      "steps": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1
+      },
+      "completionCriteria": {
+        "type": "string",
+        "minLength": 1
+      },
+      "safety": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1
+      },
+      "adaptations": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1
+      },
+      "benefits": {
+        "type": "string",
+        "minLength": 1
+      },
+      "sources": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1
+      },
+      "imageUrl": {
+        "type": "string",
+        "pattern": "^assets/[a-zA-Z0-9_/-]+\\.(svg|png|webp|jpe?g)$"
+      },
+      "imageAlt": {
+        "type": "string",
+        "minLength": 1
+      },
+      "imagePrompt": {
+        "type": "string",
+        "minLength": 1
+      },
+      "reps": {
+        "type": "string",
+        "minLength": 1
+      },
+      "duration": {
+        "type": "string",
+        "minLength": 1
+      },
+      "schedule": {
+        "type": "object",
+        "required": [
+          "daysPerWeek",
+          "minutes",
+          "strenuous"
+        ],
+        "properties": {
+          "daysPerWeek": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 7
+          },
+          "minutes": {
+            "type": "number",
+            "exclusiveMinimum": 0,
+            "maximum": 120
+          },
+          "strenuous": {
+            "type": "boolean"
+          }
+        }
+      },
+      "prerequisites": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_-]{1,80}$"
+        }
+      },
+      "suggestedBefore": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_-]{1,80}$"
+        }
+      },
+      "kind": {
+        "const": "activity"
+      },
+      "reviewStatus": {
+        "const": "source-informed-not-clinically-validated"
+      },
+      "reviewedAt": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      },
+      "preparationActivities": {
+        "type": "array",
+        "description": "Optional helpful earlier activities. Reciprocal with leadsTo; never a completion gate.",
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_-]{1,80}$"
+        }
+      },
+      "leadsTo": {
+        "type": "array",
+        "description": "Optional follow-on activities. Reciprocal with preparationActivities; never a completion gate.",
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_-]{1,80}$"
+        }
+      },
+      "relatedActivities": {
+        "type": "array",
+        "description": "Optional related ideas; never required to practise or complete an activity.",
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_-]{1,80}$"
+        }
+      },
+      "complexity": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Editorial prerequisite depth within an activity sequence; not a clinical ability score."
+      },
+      "stagePart": {
+        "type": "string",
+        "enum": [
+          "early",
+          "middle",
+          "late"
+        ]
+      }
+    }
+  }
+}

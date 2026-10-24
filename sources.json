@@ -1,0 +1,235 @@
+{
+  "cdc-monitoring": {
+    "title": "CDC: developmental monitoring and screening",
+    "url": "https://www.cdc.gov/act-early/about/developmental-monitoring-and-screening.html",
+    "scope": "Monitoring is different from standardized screening.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-checklists": {
+    "title": "CDC: how to use milestone checklists",
+    "url": "https://www.cdc.gov/act-early/milestones/key-points.html",
+    "scope": "CDC checklists are not diagnostic tools.",
+    "checkedAt": "2026-09-12"
+  },
+  "who-care": {
+    "title": "WHO: improving early childhood development",
+    "url": "https://www.who.int/publications/i/item/97892400020986",
+    "scope": "Responsive caregiving and early learning; not validation of these individual activities.",
+    "checkedAt": "2026-09-12"
+  },
+  "who-movement": {
+    "title": "WHO: physical activity and sedentary behaviour",
+    "url": "https://www.who.int/publications/i/item/9789240014886",
+    "scope": "Population guidance for ages 5 and older, including disability and chronic conditions.",
+    "checkedAt": "2026-09-12"
+  },
+  "who-under5": {
+    "title": "WHO: movement, sedentary behaviour and sleep under age 5",
+    "url": "https://www.who.int/publications/i/item/9789241550536",
+    "scope": "Whole-day guidance; a few journal sessions do not represent the full recommendation.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-connections": {
+    "title": "CDC: improving social connectedness",
+    "url": "https://www.cdc.gov/social-connectedness/improving/index.html",
+    "scope": "Ideas for supportive relationships, not attachment treatment or age deadlines.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-parenting": {
+    "title": "CDC: positive parenting resources",
+    "url": "https://www.cdc.gov/child-development/positive-parenting-tips/index.html",
+    "scope": "Age-specific parenting and learning resources.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-teen": {
+    "title": "CDC: positive parental practices",
+    "url": "https://www.cdc.gov/healthy-youth-parent-resources/positive-parental-practices/index.html",
+    "scope": "Supportive adult relationships and adolescent well-being.",
+    "checkedAt": "2026-09-12"
+  },
+  "nia-aging": {
+    "title": "NIA: healthy aging",
+    "url": "https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging",
+    "scope": "General healthy-aging context; no claim that an activity prevents dementia.",
+    "checkedAt": "2026-09-12"
+  },
+  "aap-preterm": {
+    "title": "AAP: preterm growth and milestones",
+    "url": "https://www.healthychildren.org/English/ages-stages/baby/preemie/Pages/Preemie-Milestones.aspx",
+    "scope": "Discuss adjusted age and follow-up with the child’s clinician.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-2-months": {
+    "title": "CDC: milestones by 2 months",
+    "url": "https://www.cdc.gov/act-early/milestones/2-months.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-4-months": {
+    "title": "CDC: milestones by 4 months",
+    "url": "https://www.cdc.gov/act-early/milestones/4-months.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-6-months": {
+    "title": "CDC: milestones by 6 months",
+    "url": "https://www.cdc.gov/act-early/milestones/6-months.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-9-months": {
+    "title": "CDC: milestones by 9 months",
+    "url": "https://www.cdc.gov/act-early/milestones/9-months.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-1-year": {
+    "title": "CDC: milestones by 1 year",
+    "url": "https://www.cdc.gov/act-early/milestones/1-year.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-15-months": {
+    "title": "CDC: milestones by 15 months",
+    "url": "https://www.cdc.gov/act-early/milestones/15-months.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-18-months": {
+    "title": "CDC: milestones by 18 months",
+    "url": "https://www.cdc.gov/act-early/milestones/18-months.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-2-years": {
+    "title": "CDC: milestones by 2 years",
+    "url": "https://www.cdc.gov/act-early/milestones/2-years.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-30-months": {
+    "title": "CDC: milestones by 30 months",
+    "url": "https://www.cdc.gov/act-early/milestones/30-months.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-3-years": {
+    "title": "CDC: milestones by 3 years",
+    "url": "https://www.cdc.gov/act-early/milestones/3-years.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-4-years": {
+    "title": "CDC: milestones by 4 years",
+    "url": "https://www.cdc.gov/act-early/milestones/4-years.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "cdc-5-years": {
+    "title": "CDC: milestones by 5 years",
+    "url": "https://www.cdc.gov/act-early/milestones/5-years.html",
+    "scope": "Age-specific monitoring and caregiver tips. Activity browsing windows and session lengths are editorial, not CDC cutoffs or prescriptions.",
+    "checkedAt": "2026-09-12"
+  },
+  "who-older-activity": {
+    "title": "WHO: Being active in later adulthood",
+    "url": "https://www.who.int/tools/your-life-your-health/life-phase/later-adulthood/being-active-in-later-adulthood",
+    "scope": "General guidance on adapting activity to physical condition. Does not validate this catalog's exact completion thresholds or prerequisite sequence."
+  },
+  "nhs-baby-active": {
+    "title": "NHS: keeping babies and toddlers active",
+    "url": "https://www.nhs.uk/baby/babys-development/play-and-learning/keep-baby-or-toddler-active/",
+    "scope": "Awake tummy time from birth and readiness-based movement.",
+    "checkedAt": "2026-10-22"
+  },
+  "aap-crawling": {
+    "title": "AAP: movement at 8–12 months",
+    "url": "https://www.healthychildren.org/English/ages-stages/baby/pages/Movement-8-to-12-Months.aspx",
+    "scope": "Alternative mobility, supported standing and safe exploration; crawling is not universal.",
+    "checkedAt": "2026-10-22"
+  },
+  "cdc-feeding": {
+    "title": "CDC: introducing solid foods",
+    "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html",
+    "scope": "Feeding readiness at about six months; no prescribed precision drill.",
+    "checkedAt": "2026-10-22"
+  },
+  "cdc-choking": {
+    "title": "CDC: choking hazards",
+    "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html",
+    "scope": "Food preparation, upright seating and continuous supervision.",
+    "checkedAt": "2026-10-22"
+  },
+  "who-activity-2020": {
+    "title": "WHO: 2020 physical activity guidelines",
+    "url": "https://www.who.int/publications/i/item/9789240015128",
+    "scope": "Population activity recommendations; not age-specific exercise tests or loads.",
+    "checkedAt": "2026-10-22"
+  },
+  "cdc-intensity": {
+    "title": "CDC: measuring activity intensity",
+    "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+    "scope": "Relative exertion and talk test, not universal heart-rate zones.",
+    "checkedAt": "2026-10-22"
+  },
+  "nhs-strength": {
+    "title": "NHS: strength exercises",
+    "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+    "scope": "Gradual supported strengthening, stable chairs and comfortable movement.",
+    "checkedAt": "2026-10-22"
+  },
+  "nia-cognition": {
+    "title": "NIA: cognitive health and older adults",
+    "url": "https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults",
+    "scope": "Learning and engagement; commercial games do not establish prevention of cognitive decline.",
+    "checkedAt": "2026-10-22"
+  },
+  "cdc-sleep": {
+    "title": "CDC: about sleep",
+    "url": "https://www.cdc.gov/sleep/about/",
+    "scope": "Sleep duration depends on age; 6–12 years: 9–12 hours; 13–17: 8–10 hours.",
+    "checkedAt": "2026-10-22"
+  },
+  "cfpb-savings": {
+    "title": "CFPB: building an emergency fund",
+    "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+    "scope": "Savings goals depend on individual resources and circumstances.",
+    "checkedAt": "2026-10-22"
+  },
+  "cdc-toddlers-2-3": {
+    "title": "CDC: toddler development, ages two to three",
+    "url": "https://www.cdc.gov/child-development/positive-parenting-tips/toddlers-2-3-years.html",
+    "scope": "Supports third-year toddler grouping, not individual activity validation.",
+    "checkedAt": "2026-10-23"
+  },
+  "nlm-toddler-development": {
+    "title": "MedlinePlus: toddler development",
+    "url": "https://medlineplus.gov/toddlerdevelopment.html",
+    "scope": "Describes ages one to three and individual developmental variation.",
+    "checkedAt": "2026-10-23"
+  },
+  "who-motor-windows": {
+    "title": "WHO Motor Development Study: windows of achievement",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16817682/",
+    "scope": "Primary longitudinal study: descriptive motor windows and non-universal crawling; not diagnostic cutoffs.",
+    "checkedAt": "2026-10-23"
+  },
+  "who-adolescent-development": {
+    "title": "WHO: adolescent health and development",
+    "url": "https://www.who.int/news-room/questions-and-answers/item/adolescent-health-and-development",
+    "scope": "Individual variation in physical and neurological development; age is one characteristic.",
+    "checkedAt": "2026-10-23"
+  },
+  "who-adolescent-age": {
+    "title": "WHO: adolescent health",
+    "url": "https://www.who.int/health-topics/adolescent-health",
+    "scope": "Public-health definition of adolescence as ages 10–19; not the current catalog coverage.",
+    "checkedAt": "2026-10-23"
+  },
+  "who-ageing-report": {
+    "title": "WHO: World report on ageing and health",
+    "url": "https://cdn.who.int/media/docs/default-source/mca-documents/ageing/9789240694811-eng.pdf",
+    "scope": "Functional diversity and limitations of chronological age as a proxy for capacity.",
+    "checkedAt": "2026-10-23"
+  }
+}

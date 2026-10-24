@@ -1,0 +1,641 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-001",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "balance",
+    "title": "Supported Balance and Sit-to-Stand",
+    "goal": "Explore supported Balance and Sit-to-Stand at a comfortable, adaptable level.",
+    "readiness": "Adult can stand and walk with or without assistive devices.",
+    "steps": [
+      "Place a stable chair against a wall beside a counter or other secure support.",
+      "Explore gentle weight shifts or a supported narrow stance only if steady.",
+      "Try a comfortable sit-to-stand using hands or assistance as needed; rest at any time."
+    ],
+    "completionCriteria": "Participant tries a supported balance or sit-to-stand movement with assistance as needed; no timed or unassisted threshold is required.",
+    "safety": [
+      "Ensure stable non-slip footwear and keep chair placed against a wall.",
+      "Stop if dizziness occurs."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "nhs-strength",
+      "who-activity-2020"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-001-dynamic-balance-sit-to-stand-fall-prevention-routine.webp",
+    "imageAlt": "AI-generated illustration: An older adult standing with arms outstretched, balancing steadily near a sturdy chair in a sunny living room.",
+    "imagePrompt": "An older adult standing with arms outstretched, balancing steadily near a sturdy chair in a sunny living room.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-LAD-006"
+    ],
+    "suggestedBefore": [
+      "LS-LAD-005"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-002",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "cognitive",
+    "title": "Autobiographical Legacy Writing & Life Review",
+    "goal": "Explore autobiographical Legacy Writing & Life Review at a comfortable, adaptable level.",
+    "readiness": "Adult reflects on life milestones, career achievements, and family heritage.",
+    "steps": [
+      "Dedicate regular uninterrupted time in a comfortable, well-lit study.",
+      "Chronologically document major life decisions, turning points, friendships, and philosophical insights.",
+      "Organize memories into themed chapters with accompanying photographs."
+    ],
+    "completionCriteria": "Participant records or shares a chosen memory in a suitable format; publication and chapter counts are optional.",
+    "safety": [
+      "Pace writing sessions to avoid eye strain or emotional overwhelm."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "nia-aging"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-002-autobiographical-legacy-writing-life-review.webp",
+    "imageAlt": "AI-generated illustration: An elderly writer looking thoughtfully while writing in a large notebook near a sunny window.",
+    "imagePrompt": "An elderly writer looking thoughtfully while writing in a large notebook near a sunny window.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 45,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-003",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "oral_history",
+    "title": "Oral History Audio Archive Recording",
+    "goal": "Explore oral History Audio Archive Recording at a comfortable, adaptable level.",
+    "readiness": "Adult enjoys recounting stories and heritage memories.",
+    "steps": [
+      "Use audio recorder or smartphone voice memo app.",
+      "Select a weekly thematic prompt ('First neighborhood', 'World events', 'Family traditions').",
+      "Narrate freely for 15-20 minutes with vivid sensory details, emotional reflection, and lessons learned.",
+      "Share digital archive file with family."
+    ],
+    "completionCriteria": "Participant records or tells a chosen memory and decides whether to keep it private or share it.",
+    "safety": [
+      "Keep sessions conversational and relaxed."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "nia-aging",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-003-oral-history-audio-archive-recording.webp",
+    "imageAlt": "AI-generated illustration: An adult speaking warmly into a tabletop audio microphone recording memories with a family listener.",
+    "imagePrompt": "An adult speaking warmly into a tabletop audio microphone recording memories with a family listener.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 25 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 25,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-004",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "integrity",
+    "title": "Optional Reflection and Gratitude Circle",
+    "goal": "Explore optional Reflection and Gratitude Circle at a comfortable, adaptable level.",
+    "readiness": "Adult participates in community groups, faith gatherings, or peer circles.",
+    "steps": [
+      "Participate in a weekly community circle, faith group, book club, or telephone peer group.",
+      "Share 2 sincere acknowledgments of gratitude and one reflection on a difficult life obstacle that yielded resilience.",
+      "Practice mindfulness or meditation focusing on acceptance of life's full arc."
+    ],
+    "completionCriteria": "Participant joins or considers a voluntary conversation or reflection; peace or gratitude is not required.",
+    "safety": [
+      "Ensure group space is emotionally safe and respectful."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections",
+      "nia-aging"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-004-ego-integrity-synthesis-gratitude-circle.webp",
+    "imageAlt": "AI-generated illustration: A group of older adults seated in a sunny garden pavilion sharing conversation and smiling warmly together.",
+    "imagePrompt": "A group of older adults seated in a sunny garden pavilion sharing conversation and smiling warmly together.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 35 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 35,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-005",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "gait_speed",
+    "title": "Supported Walking Practice",
+    "goal": "Explore supported Walking Practice at a comfortable, adaptable level.",
+    "readiness": "Adult walks independently without falling.",
+    "steps": [
+      "Choose a clear level route with no obstacles, keeping usual walking aids.",
+      "Walk a short comfortable distance with assistance if needed.",
+      "Stop and rest before fatigue; practise talking or puzzles separately when balance is uncertain."
+    ],
+    "completionCriteria": "Participant practises a short clear walking route at their own pace with usual aids and assistance.",
+    "safety": [
+      "Use usual aids, stable footwear and close assistance if needed.",
+      "No speed threshold or obstacle course is required; discuss new falls or dizziness with a professional."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-movement",
+      "nia-aging",
+      "who-older-activity"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-005-dual-task-gait-cadence-dynamic-obstacle-navigation.webp",
+    "imageAlt": "AI-generated illustration: An adult stepping safely over low colorful foam obstacle blocks in an exercise studio with a friendly trainer.",
+    "imagePrompt": "An adult stepping safely over low colorful foam obstacle blocks in an exercise studio with a friendly trainer.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-LAD-001"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3,
+    "leadsTo": [
+      "LS-LAD-013"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-006",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "joint_mobility",
+    "title": "Comfortable Seated Mobility",
+    "goal": "Explore comfortable Seated Mobility at a comfortable, adaptable level.",
+    "readiness": "Adult performs seated exercises comfortably.",
+    "steps": [
+      "Sit in a stable non-wheeled chair with feet supported.",
+      "Try gentle ankle movements and comfortable arm or shoulder movements below any painful range.",
+      "Rest frequently; omit twisting or overhead reaching if uncomfortable."
+    ],
+    "completionCriteria": "Participant explores comfortable seated movements with support and rest; overhead reach is optional.",
+    "safety": [
+      "Use a sturdy, armless or armed chair with non-slip feet—never a swivel or wheeled office chair."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "nhs-strength"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-006-gentle-chair-assisted-mobility-peripheral-circulation.webp",
+    "imageAlt": "AI-generated illustration: An older adult seated comfortably in a sturdy armchair doing gentle overhead arm raises and ankle rotations.",
+    "imagePrompt": "An older adult seated comfortably in a sturdy armchair doing gentle overhead arm raises and ankle rotations.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-LAD-001"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-007",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "working_memory",
+    "title": "Digital Skills and Enjoyable Puzzles",
+    "goal": "Explore digital Skills and Enjoyable Puzzles at a comfortable, adaptable level.",
+    "readiness": "Adult uses tablet or smartphone for basic communications.",
+    "steps": [
+      "Choose a useful digital task or enjoyable puzzle.",
+      "Practise with a trusted helper and take breaks as needed.",
+      "Keep passwords private and use a secure method of managing credentials; do not put passwords in a shared practice log."
+    ],
+    "completionCriteria": "Participant explores a useful digital function or enjoyable puzzle with help as needed.",
+    "safety": [
+      "Review online cybersecurity awareness: never share sensitive passwords."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "nia-cognition"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-007-digital-fluency-cognitive-game-strategic-drills.webp",
+    "imageAlt": "AI-generated illustration: An older adult woman smiling while solving an interactive puzzle on an iPad tablet.",
+    "imagePrompt": "An older adult woman smiling while solving an interactive puzzle on an iPad tablet.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 25 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 25,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-008",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "sensory_cognitive_stimulation",
+    "title": "Music and Reminiscence",
+    "goal": "Explore music and Reminiscence at a comfortable, adaptable level.",
+    "readiness": "Adult enjoys listening to music and reminiscing.",
+    "steps": [
+      "Curate a personalized audio playlist of songs beloved during youth (ages 15-25).",
+      "Pair musical listening with tactile objects (old textiles, photo albums) or olfactory cues (lavender, pine, coffee).",
+      "Encourage spontaneous storytelling about the emotions and memories evoked."
+    ],
+    "completionCriteria": "Participant chooses music or a memory cue and may listen, respond or stop without recalling a specific event.",
+    "safety": [
+      "Keep music at a comfortable volume; scents are optional and should be omitted for allergies or breathing sensitivity.",
+      "Do not insist on recalling or sharing distressing memories."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "nia-aging"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-008-multi-sensory-music-scent-reminiscence-therapy.webp",
+    "imageAlt": "AI-generated illustration: An adult listening to beloved vintage records with headphones, eyes closed in joyful recognition.",
+    "imagePrompt": "An adult listening to beloved vintage records with headphones, eyes closed in joyful recognition.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-009",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "book_club_dialogue",
+    "title": "Literary Salon & Philosophical Book Discussion",
+    "goal": "Explore literary Salon & Philosophical Book Discussion at a comfortable, adaptable level.",
+    "readiness": "Adult reads or listens to audiobooks regularly.",
+    "steps": [
+      "Read or listen to selected chapters of a rich literary or historical work.",
+      "Prepare 2 thought-provoking questions prior to the gathering.",
+      "Take active conversational turns articulating nuanced opinions and responding with empathy to peers' viewpoints."
+    ],
+    "completionCriteria": "Participant shares or listens to a book discussion in an accessible format without attendance requirements.",
+    "safety": [
+      "Encourage hearing assistive devices if acoustic environments are loud."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "nia-aging",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-009-literary-salon-philosophical-book-discussion.webp",
+    "imageAlt": "AI-generated illustration: A group of older adults sitting in cozy armchairs in a community library discussing an open novel.",
+    "imagePrompt": "A group of older adults sitting in cozy armchairs in a community library discussing an open novel.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 60 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 60,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [
+      "LS-LAD-003"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-010",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "daily_vocal_connection",
+    "title": "Structured Daily Telephonic & In-Person Micro-Checkins",
+    "goal": "Explore structured Daily Telephonic & In-Person Micro-Checkins at a comfortable, adaptable level.",
+    "readiness": "Adult communicates verbally in daily conversations.",
+    "steps": [
+      "Establish a regular daily 15-minute phone or in-person check-in with family, friends, or senior outreach volunteers.",
+      "Share: one pleasant moment from the day, one thought about a current book/news, and intentions for tomorrow.",
+      "Speak clearly and project vocal volume from the diaphragm."
+    ],
+    "completionCriteria": "Participant tries a welcome check-in by voice, text, video or another preferred method.",
+    "safety": [
+      "Ensure telephone hearing amplifier or speakerphone is set clearly."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-connections",
+      "nia-aging"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-010-structured-daily-telephonic-in-person-micro-checkins.webp",
+    "imageAlt": "AI-generated illustration: An older adult smiling warmly while speaking on the telephone near a window, enjoying a loving conversation.",
+    "imagePrompt": "An older adult smiling warmly while speaking on the telephone near a window, enjoying a loving conversation.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-011",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "grandparenting_mentorship",
+    "title": "Intergenerational Wisdom Exchange & Creative Play",
+    "goal": "Explore intergenerational Wisdom Exchange & Creative Play at a comfortable, adaptable level.",
+    "readiness": "Adult has opportunities to interact with grandchildren or local youth.",
+    "steps": [
+      "Partner with grandchildren or local youth volunteer programs.",
+      "Engage in a shared, screen-free tactile activity (baking, gardening, painting, building models).",
+      "Share gentle encouragement, praise their creativity, and listen with unconditional affection."
+    ],
+    "completionCriteria": "Participant joins an accessible mutually welcome shared activity; duration and age of partners are flexible.",
+    "safety": [
+      "Keep materials comfortable to handle and maintain rest breaks."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "who-care",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-011-intergenerational-wisdom-exchange-creative-play.webp",
+    "imageAlt": "AI-generated illustration: A grandfather laughing and gardening with his young granddaughter planting flower seeds in a wooden box.",
+    "imagePrompt": "A grandfather laughing and gardening with his young granddaughter planting flower seeds in a wooden box.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 50 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 50,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [
+      "LS-LAD-004"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-012",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "existential_serenity",
+    "title": "Optional Quiet Reflection",
+    "goal": "Explore optional Quiet Reflection at a comfortable, adaptable level.",
+    "readiness": "Adult seeks inner quiet, tranquility, and reflective serenity.",
+    "steps": [
+      "Choose a comfortable supported position and a brief quiet pause if wanted.",
+      "Notice natural breathing or a neutral sound without forcing the breath.",
+      "Stop or switch activities if reflection brings distress; no affirmation or discussion of mortality is required."
+    ],
+    "completionCriteria": "Participant tries a brief optional quiet pause and may stop or choose another activity without needing to feel calm.",
+    "safety": [
+      "Ensure comfortable supportive seating with back support."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "nia-aging",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-012-mindful-acceptance-end-of-life-peace-meditation.webp",
+    "imageAlt": "AI-generated illustration: An adult sitting in a comfortable armchair looking out at a gentle sunset with hands resting calmly, exuding serenity.",
+    "imagePrompt": "An adult sitting in a comfortable armchair looking out at a gentle sunset with hands resting calmly, exuding serenity.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [
+      "LS-LAD-004"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-LAD-013",
+    "lifespanStage": "late_adulthood",
+    "minAge": 65,
+    "maxAge": 120,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "aerobic_routine",
+    "title": "Everyday Aerobic Movement",
+    "goal": "Try an accessible aerobic activity and choose a feasible routine.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Choose enjoyable accessible movement such as walking, wheeling, cycling or seated aerobic activity, and try a short comfortable bout with rests as needed.",
+      "Start with a comfortable amount and build gradually toward adult guidance: 150–300 minutes of moderate or 75–150 minutes of vigorous aerobic activity per week.",
+      "Include strengthening on at least 2 days; at ages 65 and older also plan balance and strength-focused multicomponent activity on at least 3 days, adapted to ability.",
+      "Short bouts can contribute to activity totals; the optional journal session length is not the whole weekly target."
+    ],
+    "completionCriteria": "Participant chooses an accessible activity and a feasible next step without a fitness threshold.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-activity-2020",
+      "cdc-intensity"
+    ],
+    "imageUrl": "assets/adulthood/late/LS-LAD-013-everyday-aerobic-activity-planning-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Older adult around seventy enjoying a short comfortable walk on a wide level garden path with a companion and walking stick as needed, no speed target.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Older adult around seventy enjoying a short comfortable walk on a wide level garden path with a companion and walking stick as needed, no speed target. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "LS-LAD-005"
+    ],
+    "leadsTo": []
+  }
+]

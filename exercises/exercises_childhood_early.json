@@ -1,0 +1,718 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-002",
+    "lifespanStage": "early_childhood",
+    "minAge": 3,
+    "maxAge": 4,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "balance",
+    "title": "Single-Leg Flamingo Stance",
+    "goal": "Explore single-Leg Flamingo Stance at a comfortable, adaptable level.",
+    "readiness": "Child jumps on two feet comfortably and steps over obstacles.",
+    "steps": [
+      "Stand together near a stable support on a non-slip floor.",
+      "Model briefly lifting one foot and invite a playful attempt, using a handhold as needed.",
+      "Switch sides or rest without a timed hold."
+    ],
+    "completionCriteria": "Child explores balancing on either foot with a handhold as needed; no timed hold is required.",
+    "safety": [
+      "Perform on padded or carpeted floor away from sharp furniture."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-under5",
+      "cdc-3-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-002-single-leg-flamingo-stance.webp",
+    "imageAlt": "AI-generated illustration: A child balancing on one leg like a flamingo on a non-slip play mat with arms outstretched.",
+    "imagePrompt": "A child balancing on one leg like a flamingo on a non-slip play mat with arms outstretched.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-ECH-011"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "preparationActivities": [
+      "LS-ECH-001"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-003",
+    "lifespanStage": "early_childhood",
+    "minAge": 4,
+    "maxAge": 5,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "emotional",
+    "title": "Emotion Vocabulary Labeling & Co-Regulation",
+    "goal": "Explore emotion Vocabulary Labeling & Co-Regulation at a comfortable, adaptable level.",
+    "readiness": "Child identifies basic feelings like happy and sad in stories.",
+    "steps": [
+      "Present 4 emotion flashcards (Happy, Sad, Angry, Surprised).",
+      "Ask child to identify the expression and mimic it physically.",
+      "Discuss simple scenarios: 'How does your friend feel when their toy breaks? What can we do to help?'."
+    ],
+    "completionCriteria": "Child explores naming a feeling and a comforting response with adult support.",
+    "safety": [
+      "Validate all emotions as acceptable; discuss healthy ways to express anger or sadness."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-4-years",
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-003-emotion-vocabulary-labeling-co-regulation.webp",
+    "imageAlt": "AI-generated illustration: A parent showing illustrated emotion cards to an engaged child at a small wooden table, discussing happy and sad faces.",
+    "imagePrompt": "A parent showing illustrated emotion cards to an engaged child at a small wooden table, discussing happy and sad faces.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-ECH-010"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "EX-NEW-015"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-007",
+    "lifespanStage": "early_childhood",
+    "minAge": 4,
+    "maxAge": 5,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "fine_motor",
+    "title": "Supported Snipping and Drawing",
+    "goal": "Explore supported Snipping and Drawing at a comfortable, adaptable level.",
+    "readiness": "Child holds crayons with fingers rather than full fist.",
+    "steps": [
+      "Provide child-safe blunt scissors and 1-inch marked paper strips.",
+      "Coach thumb-up positioning in top loop.",
+      "Guide child to make sequential snips along the line and practice drawing intersecting cross lines with a crayon."
+    ],
+    "completionCriteria": "Child explores safe snipping or mark making with close adult help; each skill can be practised separately.",
+    "safety": [
+      "Always supervise scissor use closely; use only child-safe blunt scissors."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-4-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-007-dynamic-tripod-scissor-snip-draw.webp",
+    "imageAlt": "AI-generated illustration: A child holding child-safe blunt scissors with thumb upright, cleanly cutting along a straight printed line.",
+    "imagePrompt": "A child holding child-safe blunt scissors with thumb upright, cleanly cutting along a straight printed line.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "LS-ECH-019"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-008",
+    "lifespanStage": "early_childhood",
+    "minAge": 4,
+    "maxAge": 5,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "phonological",
+    "title": "Phonological Rhyme & Syllable Clapping",
+    "goal": "Explore phonological Rhyme & Syllable Clapping at a comfortable, adaptable level.",
+    "readiness": "Child enjoys songs, chants, and nursery rhymes.",
+    "steps": [
+      "Present rhyming pairs ('cat / bat') and ask child if they rhyme.",
+      "Introduce non-rhyming foils ('cat / dog') to test discrimination.",
+      "Practice clapping syllables for two- and three-syllable familiar words (e.g., 'ba-na-na' = 3 claps)."
+    ],
+    "completionCriteria": "Child enjoys a familiar rhyme or syllable game without accuracy scoring.",
+    "safety": [
+      "Keep game lighthearted and rhythmic."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-4-years",
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-008-phonological-rhyme-syllable-clapping.webp",
+    "imageAlt": "AI-generated illustration: A smiling teacher and children clapping hands rhythmically while chanting rhyming word pairs on a circle mat.",
+    "imagePrompt": "A smiling teacher and children clapping hands rhythmically while chanting rhyming word pairs on a circle mat.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 8 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 8,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "preparationActivities": [
+      "LS-ECH-005"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-009",
+    "lifespanStage": "early_childhood",
+    "minAge": 4,
+    "maxAge": 5,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "working_memory",
+    "title": "3-Step Sequential Working Memory Navigation",
+    "goal": "Explore 3-Step Sequential Working Memory Navigation at a comfortable, adaptable level.",
+    "readiness": "Child follows 2-step directions consistently.",
+    "steps": [
+      "Offer one familiar direction with a gesture if helpful.",
+      "Add a second step only when comfortable, modelling and repeating as needed.",
+      "Invite the child to help plan the sequence rather than testing memory."
+    ],
+    "completionCriteria": "Child attempts a short familiar sequence with prompts as needed; add steps gradually.",
+    "safety": [
+      "Keep commands clear and achievable within the child's immediate physical environment."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-4-years",
+      "cdc-5-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-009-3-step-sequential-working-memory-navigation.webp",
+    "imageAlt": "AI-generated illustration: A child following a 3-step routine in a hallway, hanging coat, placing boots on the mat, and washing hands.",
+    "imagePrompt": "A child following a 3-step routine in a hallway, hanging coat, placing boots on the mat, and washing hands.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "LS-ECH-017"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-010",
+    "lifespanStage": "early_childhood",
+    "minAge": 5,
+    "maxAge": 6,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "prosocial",
+    "title": "Cooperative Sociodramatic Rule Play & Dispute Settlement",
+    "goal": "Explore cooperative Sociodramatic Rule Play & Dispute Settlement at a comfortable, adaptable level.",
+    "readiness": "Child participates in associative group play and understands turn-taking.",
+    "steps": [
+      "Provide open-ended imaginative play props (pretend vet, grocery store).",
+      "Coach children to negotiate roles prior to starting: 'Who will be the customer first?'.",
+      "When a conflict over props occurs, facilitate verbal resolution rather than intervening with instant adult decisions."
+    ],
+    "completionCriteria": "Child joins a brief shared pretend game and receives support with disagreements or strong feelings.",
+    "safety": [
+      "Supervise closely and help children express needs using polite 'I-statements'."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-5-years",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-010-cooperative-sociodramatic-rule-play-dispute-settlement.webp",
+    "imageAlt": "AI-generated illustration: Two children collaboratively building a cardboard veterinary clinic together, taking turns acting as doctor and pet parent.",
+    "imagePrompt": "Two children collaboratively building a cardboard veterinary clinic together, taking turns acting as doctor and pet parent.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 25 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 25,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-ECH-003",
+      "LS-ECH-016"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-011",
+    "lifespanStage": "early_childhood",
+    "minAge": 5,
+    "maxAge": 6,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "agility",
+    "title": "Unilateral Hopping & Heel-Toe Tandem Walk",
+    "goal": "Explore unilateral Hopping & Heel-Toe Tandem Walk at a comfortable, adaptable level.",
+    "readiness": "Child balances on one foot for 5+ seconds.",
+    "steps": [
+      "Mark a 10-foot straight line with masking tape or chalk.",
+      "Instruct child to hop forward consecutively on their preferred foot for 5 hops.",
+      "Demonstrate walking heel-to-toe along the line without stepping off to either side."
+    ],
+    "completionCriteria": "Child attempts a hop or balance walk with support; repetitions and distance are optional.",
+    "safety": [
+      "Ensure path is dry, level, and free of obstacles."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-under5",
+      "cdc-5-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-011-unilateral-hopping-heel-toe-tandem-walk.webp",
+    "imageAlt": "AI-generated illustration: A child hopping consecutively on one foot along a chalk line drawn on a smooth school courtyard.",
+    "imagePrompt": "A child hopping consecutively on one foot along a chalk line drawn on a smooth school courtyard.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 8 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 8,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-ECH-002"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-012",
+    "lifespanStage": "early_childhood",
+    "minAge": 3,
+    "maxAge": 4,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "executive_function",
+    "title": "Changing Sorting Rules",
+    "goal": "Explore changing Sorting Rules at a comfortable, adaptable level.",
+    "readiness": "Child can sort cards by a single rule (e.g., color).",
+    "steps": [
+      "Present cards featuring red rabbits and blue boats.",
+      "Play the 'color game' first: sort red cards left, blue cards right.",
+      "Introduce the switch: 'Now we are playing the shape game! Rabbits go here, boats go there'.",
+      "Observe inhibition of the old rule."
+    ],
+    "completionCriteria": "Child explores sorting by one feature and tries a new rule with help; no diagnostic score is used.",
+    "safety": [
+      "Keep game playful and celebrate attempts without scolding mistakes."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-3-years",
+      "cdc-4-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-012-dimensional-change-card-sort-dccs.webp",
+    "imageAlt": "AI-generated illustration: A child sorting picture cards by color, then switching to sorting them by shape under adult direction.",
+    "imagePrompt": "A child sorting picture cards by color, then switching to sorting them by shape under adult direction.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-ECH-013"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "preparationActivities": [
+      "LS-ECH-006"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-013",
+    "lifespanStage": "early_childhood",
+    "minAge": 5,
+    "maxAge": 6,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "theory_of_mind",
+    "title": "Story Perspective Play",
+    "goal": "Explore story Perspective Play at a comfortable, adaptable level.",
+    "readiness": "Child understands simple stories and follows plot twists.",
+    "steps": [
+      "Narrate a scenario: 'Sally puts a marble in her basket and leaves. Anne moves it to her box. When Sally returns, where will she look for her marble?'.",
+      "Prompt child to answer from Sally's perspective.",
+      "Discuss why people believe what they saw rather than what actually happened."
+    ],
+    "completionCriteria": "Child discusses what a story character may know or feel, with help and no pass/fail inference.",
+    "safety": [
+      "Present as an intriguing puzzle without pressure."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-5-years",
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-013-false-belief-story-perspective-task.webp",
+    "imageAlt": "AI-generated illustration: A caregiver telling an illustrated story to an attentive child about a character searching for a moved toy.",
+    "imagePrompt": "A caregiver telling an illustrated story to an attentive child about a character searching for a moved toy.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-ECH-012"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-014",
+    "lifespanStage": "early_childhood",
+    "minAge": 3,
+    "maxAge": 4,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "comprehension",
+    "title": "Preposition & Spatial Directive Comprehension",
+    "goal": "Explore preposition & Spatial Directive Comprehension at a comfortable, adaptable level.",
+    "readiness": "Child understands simple commands and names of familiar objects.",
+    "steps": [
+      "Using a toy animal and a basket/box, give explicit instructions: 'Put the bear behind the box', 'Put the bear inside the box', 'Put the bear under the chair'.",
+      "Reverse roles: prompt child to give instructions to you."
+    ],
+    "completionCriteria": "Child responds to a familiar spatial word with demonstration as needed.",
+    "safety": [
+      "Ensure chairs or props are stable and safe to crawl around."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-3-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-014-preposition-spatial-directive-comprehension.webp",
+    "imageAlt": "AI-generated illustration: A child placing a plush teddy bear under a wooden chair during a fun preposition game.",
+    "imagePrompt": "A child placing a plush teddy bear under a wooden chair during a fun preposition game.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 8 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 8,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-ECH-015"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "preparationActivities": [
+      "LS-ECH-005"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-015",
+    "lifespanStage": "early_childhood",
+    "minAge": 5,
+    "maxAge": 6,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "storytelling",
+    "title": "Cohesive Narrative Retelling & Future Tense Planning",
+    "goal": "Explore cohesive Narrative Retelling & Future Tense Planning at a comfortable, adaptable level.",
+    "readiness": "Child speaks in complex sentences and describes recent events.",
+    "steps": [
+      "Read a 5-page picture book with a clear dilemma.",
+      "Close the book and prompt child: 'Tell me the story of what happened from the beginning to the end'.",
+      "Prompt future tense projection: 'What do you think the character will do tomorrow?'."
+    ],
+    "completionCriteria": "Child shares a story with linked events using prompts or accessible communication as needed.",
+    "safety": [
+      "Listen attentively without correcting grammar midsentence."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-5-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-015-cohesive-narrative-retelling-future-tense-planning.webp",
+    "imageAlt": "AI-generated illustration: A child holding up a 3-panel illustrated story card, explaining what happens next with animated gestures.",
+    "imagePrompt": "A child holding up a 3-panel illustrated story card, explaining what happens next with animated gestures.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-ECH-014"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3,
+    "preparationActivities": [
+      "LS-ECH-021"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-016",
+    "lifespanStage": "early_childhood",
+    "minAge": 3,
+    "maxAge": 4,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "parallel_to_associative",
+    "title": "Parallel to Associative Block Play Bridge",
+    "goal": "Explore parallel to Associative Block Play Bridge at a comfortable, adaptable level.",
+    "readiness": "Child plays alongside peers without aggression.",
+    "steps": [
+      "Place two children on a play mat with a single shared bucket of building blocks between them.",
+      "Prompt them to build their own individual towers while encouraging verbal borrowing: 'Can you ask Leo for the yellow block?'.",
+      "Acknowledge and reinforce spontaneous sharing gestures."
+    ],
+    "completionCriteria": "Child joins a brief shared play opportunity, with adult support for sharing and communication.",
+    "safety": [
+      "Provide sufficient materials so neither child feels deprived.",
+      "Intervene calmly if snatching occurs."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-3-years",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-016-parallel-to-associative-block-play-bridge.webp",
+    "imageAlt": "AI-generated illustration: Two children sitting beside each other on carpet sharing building blocks and commenting on each other's towers.",
+    "imagePrompt": "Two children sitting beside each other on carpet sharing building blocks and commenting on each other's towers.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-ECH-010"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "preparationActivities": [
+      "LS-ECH-004"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-018",
+    "lifespanStage": "early_childhood",
+    "minAge": 3,
+    "maxAge": 5,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "ball_play",
+    "title": "Big-Ball Catch and Roll",
+    "goal": "Practise big-ball catch and roll through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Offer a large soft ball at close range.",
+      "Model rolling or a gentle two-hand catch and adjust distance to comfort."
+    ],
+    "completionCriteria": "Child attempts to stop or catch a large soft ball with help as needed.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-4-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-018-big-ball-catch-and-roll-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Four-year-old receiving a gentle roll of a large soft ball with both hands on a clear level lawn, parent kneeling close opposite.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Four-year-old receiving a gentle roll of a large soft ball with both hands on a clear level lawn, parent kneeling close opposite. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-LAT-013"
+    ],
+    "leadsTo": [
+      "LS-MCH-001"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-020",
+    "lifespanStage": "early_childhood",
+    "minAge": 3,
+    "maxAge": 6,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "early_numeracy",
+    "title": "Counting and Everyday Sorting",
+    "goal": "Practise counting and everyday sorting through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Count a few large safe objects together.",
+      "Invite grouping by a familiar feature and compare more or fewer.",
+      "Increase the count gradually without accuracy scoring."
+    ],
+    "completionCriteria": "Child joins an adaptable counting or sorting activity.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-4-years",
+      "cdc-5-years"
+    ],
+    "imageUrl": "assets/childhood/early/LS-ECH-020-counting-and-everyday-sorting-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Five-year-old and parent counting five large wooden blocks on a low table, child pointing thoughtfully to the next block, natural playful learning.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Five-year-old and parent counting five large wooden blocks on a low table, child pointing thoughtfully to the next block, natural playful learning. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "LS-ECH-006"
+    ],
+    "leadsTo": [
+      "LS-MCH-009"
+    ]
+  }
+]

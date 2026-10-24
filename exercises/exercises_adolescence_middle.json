@@ -1,0 +1,472 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "LS-ADO-005",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "peer_interpersonal",
+    "title": "Assertive Boundary Setting (DESC Model)",
+    "goal": "Explore assertive Boundary Setting (DESC Model) at a comfortable, adaptable level.",
+    "readiness": "Adolescent encounters complex social dynamics and peer expectations.",
+    "steps": [
+      "Identify a scenario where peer expectations violate personal comfort, values, or safety.",
+      "Rehearse the 4-part DESC script: (D) Describe the situation objectively, (E) Express personal feelings without accusation, (S) Specify the requested boundary, (C) Clarify positive consequences.",
+      "Rehearse saying a firm 'No' with calm, direct eye contact and neutral vocal pitch without defensive over-explaining."
+    ],
+    "completionCriteria": "Participant rehearses a boundary in a comfortable communication style without a required tone or eye contact.",
+    "safety": [
+      "Affirm that setting healthy boundaries is a sign of self-respect and emotional maturity."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-teen",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adolescence/middle/LS-ADO-005-assertive-boundary-setting-desc-model.webp",
+    "imageAlt": "AI-generated illustration: Two 15-year-olds talking in a school courtyard; one teen is holding an upright, calm posture, gesturing with an open palm while maintaining direct eye contact.",
+    "imagePrompt": "Two 15-year-olds talking in a school courtyard; one teen is holding an upright, calm posture, gesturing with an open palm while maintaining direct eye contact.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-ADO-002"
+    ],
+    "suggestedBefore": [
+      "LS-ADO-017",
+      "LS-ADO-012"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "stagePart": "middle"
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ADO-006",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "aerobic_power",
+    "title": "Adaptable Aerobic Intervals",
+    "goal": "Explore adaptable Aerobic Intervals at a comfortable, adaptable level.",
+    "readiness": "Adolescent completes 20+ minutes of continuous running or sport activity without issue.",
+    "steps": [
+      "Choose a familiar enjoyable aerobic activity and start easily.",
+      "Increase effort only to a personally manageable pace; at moderate intensity you can talk but not sing.",
+      "Alternate activity and easy recovery as desired, then finish gradually; no fixed heart-rate zone is required."
+    ],
+    "completionCriteria": "Participant completes a self-chosen interval of activity and recovery without symptoms; no heart-rate recovery cutoff is used.",
+    "safety": [
+      "Stop for chest pain, faintness or unusual breathlessness and seek medical advice as appropriate.",
+      "Start with manageable amounts and build gradually; adapt to health conditions and professional advice."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-activity-2020",
+      "cdc-intensity"
+    ],
+    "imageUrl": "assets/adolescence/middle/LS-ADO-006-high-intensity-sprint-autonomic-recovery-protocol.webp",
+    "imageAlt": "AI-generated illustration: A 15-year-old athlete in running attire sprinting powerfully down an outdoor athletics track, displaying sharp knee drive and upright mechanics.",
+    "imagePrompt": "A 15-year-old athlete in running attire sprinting powerfully down an outdoor athletics track, displaying sharp knee drive and upright mechanics.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 22 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 22,
+      "strenuous": true
+    },
+    "prerequisites": [
+      "LS-ADO-001"
+    ],
+    "suggestedBefore": [
+      "LS-ADO-024"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "stagePart": "middle"
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ADO-008",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "formal_operational",
+    "title": "Hypothetico-Deductive Scientific Modeling",
+    "goal": "Explore hypothetico-Deductive Scientific Modeling at a comfortable, adaptable level.",
+    "readiness": "Adolescent handles multi-variable school science labs.",
+    "steps": [
+      "Select a physical or biological system with multiple variables (e.g., pendulum period vs. string length, bob mass, and release angle).",
+      "Formulate an explicit hypothesis predicting the causal variable.",
+      "Conduct 5 trials altering ONLY the chosen independent variable while strictly standardizing all other parameters.",
+      "Graph collected data, calculate mean variances, and deduce a formal mathematical or qualitative rule."
+    ],
+    "completionCriteria": "Produces a documented scientific lab report correctly isolating one causal variable, presenting plotted data, and deducing a verifiable conclusion.",
+    "safety": [
+      "Ensure experimental materials are safe and supervised."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-teen"
+    ],
+    "imageUrl": "assets/adolescence/middle/LS-ADO-008-hypothetico-deductive-scientific-modeling.webp",
+    "imageAlt": "AI-generated illustration: A 15-year-old student in a science lab testing pendulum swings with weights, recording precise stopwatch measurements into a lab spreadsheet.",
+    "imagePrompt": "A 15-year-old student in a science lab testing pendulum swings with weights, recording precise stopwatch measurements into a lab spreadsheet.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 30 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 30,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-ADO-004",
+      "LS-ADO-026"
+    ],
+    "suggestedBefore": [
+      "LS-ADO-009"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "stagePart": "middle"
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ADO-010",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "public_rhetoric",
+    "title": "Extemporaneous Public Rhetoric & Keynote Delivery",
+    "goal": "Explore extemporaneous Public Rhetoric & Keynote Delivery at a comfortable, adaptable level.",
+    "readiness": "Adolescent delivers prepared classroom oral presentations.",
+    "steps": [
+      "Draw an unfamiliar contemporary topic prompt from a selection.",
+      "Take exactly 3 minutes to outline an index card with: Hook, Point 1 (Problem), Point 2 (Evidence), Point 3 (Solution), Call to Action.",
+      "Stand before an audience or camera and deliver the speech for 3 full minutes without reading verbatim.",
+      "Focus on maintaining open posture, projecting from the diaphragm, and replacing vocal fillers ('um', 'like') with purposeful pauses."
+    ],
+    "completionCriteria": "Participant practises conveying a main idea to a chosen audience using notes or accessible communication.",
+    "safety": [
+      "Maintain an encouraging, supportive audience environment."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-teen"
+    ],
+    "imageUrl": "assets/adolescence/middle/LS-ADO-010-extemporaneous-public-rhetoric-keynote-delivery.webp",
+    "imageAlt": "AI-generated illustration: A 15-year-old standing confidently at a wooden lectern in a sunlit classroom, speaking naturally with open hand gestures and eye contact.",
+    "imagePrompt": "A 15-year-old standing confidently at a wooden lectern in a sunlit classroom, speaking naturally with open hand gestures and eye contact.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-ADO-003"
+    ],
+    "suggestedBefore": [
+      "LS-ADO-011",
+      "LS-ADO-029"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "stagePart": "middle"
+  },
+  {
+    "id": "LS-ADO-016",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "risk_evaluation",
+    "title": "Scenario-Based Risk vs. Reward Deconstruction",
+    "goal": "Explore scenario-Based Risk vs. Reward Deconstruction at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/adolescence/middle/LS-ADO-016-scenario-based-risk-vs-reward-deconstruction.webp",
+    "imagePrompt": "A 15-year-old sitting at a desk with an adult mentor, reviewing scenario decision cards analyzing short-term impulses versus long-term outcomes.",
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "prerequisites": [
+      "LS-ADO-014"
+    ],
+    "completionCriteria": "Adolescent articulates both the short-term emotional driver and long-term consequence for 3 distinct scenarios, demonstrating a rehearsed exit script for each.",
+    "steps": [
+      "Review 3 realistic high-arousal scenarios (e.g., passenger in a speeding vehicle, unvetted online dares, party substance pressure).",
+      "Deconstruct the scenario using a dual-column analysis: 'Immediate Limbic Payoff' (peer approval, thrill) versus 'Long-Term Structural Risk' (injury, legal, relational).",
+      "Identify personal physiological warning signs of impulsive arousal (accelerated heart rate, tunnel vision).",
+      "Script and rehearse an immediate, face-saving exit strategy."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Try only when comfortable, interested and able to attempt the listed steps with the specified support. Confirm prerequisite success criteria first.",
+    "safety": [
+      "Participation is voluntary. Stop for pain, dizziness, distress or fatigue.",
+      "Use suitable supervision for physical activities; protect privacy in personal discussions and written work."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "sources": [
+      "cdc-teen"
+    ],
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 15-year-old sitting at a desk with an adult mentor, reviewing scenario decision cards analyzing short-term impulses versus long-term outcomes.",
+    "suggestedBefore": [
+      "LS-ADO-009"
+    ],
+    "complexity": 3,
+    "stagePart": "middle"
+  },
+  {
+    "id": "LS-ADO-017",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "relationships",
+    "title": "Respectful Relationship & Consent Dialogue",
+    "goal": "Explore respectful Relationship & Consent Dialogue at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/adolescence/middle/LS-ADO-017-respectful-relationship-consent-dialogue.webp",
+    "imagePrompt": "Two 15-year-olds seated side-by-side on a park bench having an earnest, healthy conversation with respectful distance and calm demeanor.",
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "prerequisites": [
+      "LS-ADO-005"
+    ],
+    "completionCriteria": "Adolescent identifies 4 healthy vs. unhealthy relational dynamics and articulates unambiguous verbal consent check-ins and boundary responses.",
+    "steps": [
+      "Define the parameters of healthy relationships: mutual respect, independent interests, emotional safety, and open communication.",
+      "Audit relationship red flags: digital surveillance (demanding passwords/constant location checks), isolation from friends, gaslighting, or coercion.",
+      "Rehearse verbal scripts for establishing relationship pacing, asking for clear consent, and accepting a partner's boundary gracefully."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Try only when comfortable, interested and able to attempt the listed steps with the specified support. Confirm prerequisite success criteria first.",
+    "safety": [
+      "Participation is voluntary. Stop for pain, dizziness, distress or fatigue.",
+      "Use suitable supervision for physical activities; protect privacy in personal discussions and written work."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "sources": [
+      "cdc-teen"
+    ],
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: Two 15-year-olds seated side-by-side on a park bench having an earnest, healthy conversation with respectful distance and calm demeanor.",
+    "suggestedBefore": [
+      "LS-ADO-012"
+    ],
+    "complexity": 3,
+    "stagePart": "middle"
+  },
+  {
+    "id": "LS-ADO-018",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "leadership",
+    "title": "Team Huddle Leadership & Constructive Feedback",
+    "goal": "Explore team Huddle Leadership & Constructive Feedback at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/adolescence/middle/LS-ADO-018-team-huddle-leadership-constructive-feedback.webp",
+    "imagePrompt": "A 15-year-old team captain in an athletic jersey speaking encouragingly to teammates gathered in a close circular huddle on a sports field.",
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "prerequisites": [
+      "LS-ADO-015"
+    ],
+    "completionCriteria": "Participant practises a clear team goal and an invitation for feedback; peers need not agree.",
+    "steps": [
+      "Assume the leadership role during a 5-minute pre-activity team or project huddle.",
+      "State the singular session objective clearly and delegate roles based on individual strengths.",
+      "Conclude the session with a 3-minute debrief: recognize one specific group success and provide one actionable improvement cue using forward-looking phrasing ('Next time, let's focus on X')."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Try only when comfortable, interested and able to attempt the listed steps with the specified support. Confirm prerequisite success criteria first.",
+    "safety": [
+      "Participation is voluntary. Stop for pain, dizziness, distress or fatigue.",
+      "Use suitable supervision for physical activities; protect privacy in personal discussions and written work."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "sources": [
+      "cdc-teen"
+    ],
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 15-year-old team captain in an athletic jersey speaking encouragingly to teammates gathered in a close circular huddle on a sports field.",
+    "suggestedBefore": [
+      "LS-ADO-021"
+    ],
+    "complexity": 2,
+    "stagePart": "middle"
+  },
+  {
+    "id": "LS-ADO-027",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "neuromuscular_agility",
+    "title": "Multi-Planar Agility & Deceleration Mechanics",
+    "goal": "Explore multi-Planar Agility & Deceleration Mechanics at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/adolescence/middle/LS-ADO-027-multi-planar-agility-deceleration-mechanics.webp",
+    "imagePrompt": "A 15-year-old athlete performing rapid side-shuffles and cone touches on an outdoor turf field with low center of gravity and controlled knee alignment.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [
+      "LS-ADO-001"
+    ],
+    "completionCriteria": "Participant practises changing direction at a manageable speed with rest and supervision.",
+    "steps": [
+      "Warm up and choose a clear non-slip space with supervision.",
+      "Practise walking or jogging gently between markers with wide comfortable turns.",
+      "Increase speed or complexity only when comfortable and allow full recovery."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Try only when comfortable, interested and able to attempt the listed steps with the specified support. Confirm prerequisite success criteria first.",
+    "safety": [
+      "Use suitable footwear and qualified instruction for sport-specific cutting drills.",
+      "Stop for pain or instability; no exercise guarantees prevention of ligament injury."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "sources": [
+      "who-activity-2020"
+    ],
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 15-year-old athlete performing rapid side-shuffles and cone touches on an outdoor turf field with low center of gravity and controlled knee alignment.",
+    "suggestedBefore": [],
+    "complexity": 2,
+    "stagePart": "middle"
+  },
+  {
+    "id": "LS-ADO-028",
+    "lifespanStage": "adolescence",
+    "minAge": 14,
+    "maxAge": 16,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "deliberative_dialogue",
+    "title": "Collaborative Deliberation & Civil Debate",
+    "goal": "Explore collaborative Deliberation & Civil Debate at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/adolescence/middle/LS-ADO-028-collaborative-deliberation-civil-debate.webp",
+    "imagePrompt": "Two 15-year-old students seated across a conference table with reference folders, debating a topic with calm poise and mutual respect.",
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "prerequisites": [
+      "LS-ADO-023"
+    ],
+    "completionCriteria": "Participates in a 15-minute structured debate, formulating at least 2 evidence-grounded rebuttals while maintaining respectful professional decorum.",
+    "steps": [
+      "Select a structured debate resolution with ethical or civic dimensions.",
+      "Prepare opening arguments supported by verified empirical facts.",
+      "Engage in a timed format: 2-minute constructive speech, 1-minute cross-examination, 2-minute rebuttal.",
+      "Ground all rebuttals in the opponent's logic or evidence quality, maintaining strict professional decorum without emotional disparagement."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Try only when comfortable, interested and able to attempt the listed steps with the specified support. Confirm prerequisite success criteria first.",
+    "safety": [
+      "Participation is voluntary. Stop for pain, dizziness, distress or fatigue.",
+      "Use suitable supervision for physical activities; protect privacy in personal discussions and written work."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "sources": [
+      "cdc-teen"
+    ],
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: Two 15-year-old students seated across a conference table with reference folders, debating a topic with calm poise and mutual respect.",
+    "suggestedBefore": [],
+    "complexity": 2,
+    "stagePart": "middle"
+  }
+]

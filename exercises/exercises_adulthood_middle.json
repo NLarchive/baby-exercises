@@ -1,0 +1,650 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-001",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "mobility",
+    "title": "Adaptable Resistance Practice",
+    "goal": "Explore adaptable Resistance Practice at a comfortable, adaptable level.",
+    "readiness": "Adult maintains sound standing balance and knee joint stability.",
+    "steps": [
+      "Choose a supported squat, sit-to-stand, wall push or other suitable resistance movement.",
+      "Begin with body weight or a manageable light resistance, using a stable support as needed.",
+      "Move through a comfortable range while breathing normally; rest before form becomes difficult.",
+      "Increase resistance gradually only when the current version is comfortable; seek instruction for loaded techniques."
+    ],
+    "completionCriteria": "Participant tries a suitable resistance movement with a manageable load and comfortable breathing.",
+    "safety": [
+      "Do not use body-weight percentages or maximal lifting as a required target.",
+      "Avoid breath holding and stop for pain, dizziness or chest symptoms."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "nhs-strength",
+      "who-activity-2020"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-001-resistance-training-bone-axial-loading.webp",
+    "imageAlt": "AI-generated illustration: An adult performing a clean kettlebell goblet squat with upright spine and neutral neck alignment in a home fitness studio.",
+    "imagePrompt": "An adult performing a clean kettlebell goblet squat with upright spine and neutral neck alignment in a home fitness studio.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 30 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 30,
+      "strenuous": true
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MAD-006"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-002",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "generativity",
+    "title": "Generative Mentorship Strategy Development",
+    "goal": "Explore generative Mentorship Strategy Development at a comfortable, adaptable level.",
+    "readiness": "Adult holds professional or life experience they wish to contribute to others.",
+    "steps": [
+      "Identify a mentee (early-career colleague, community youth, family member).",
+      "Schedule structured bi-weekly 45-minute developmental dialogues focused on their aspirations and hurdles.",
+      "Emphasize active listening and reflective questioning rather than prescriptive commands.",
+      "Help mentee formulate an actionable growth roadmap."
+    ],
+    "completionCriteria": "Participant offers a mutually agreed mentoring conversation; the mentee controls their own goals.",
+    "safety": [
+      "Respect mentee autonomy and avoid imposing rigid life expectations."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-002-generative-mentorship-strategy-development.webp",
+    "imageAlt": "AI-generated illustration: A mature professional seated in an office discussing a notebook plan with a younger colleague in an encouraging manner.",
+    "imagePrompt": "A mature professional seated in an office discussing a notebook plan with a younger colleague in an encouraging manner.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 45,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MAD-011"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-003",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "neuroplasticity",
+    "title": "Learning a New Skill",
+    "goal": "Explore learning a New Skill at a comfortable, adaptable level.",
+    "readiness": "Adult designates regular distraction-free learning time.",
+    "steps": [
+      "Select an entirely novel skill combining motor and cognitive demands (acoustic instrument, foreign language, chess, pottery).",
+      "Dedicate 30 minutes of distraction-free deliberate practice 3 days per week.",
+      "Emphasize progressive difficulty and error correction rather than mindless repetition."
+    ],
+    "completionCriteria": "Participant practises a chosen new skill and notes an observation without a cognitive-health score.",
+    "safety": [
+      "Pace practice to prevent wrist strain or cognitive fatigue."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "nia-aging",
+      "nia-cognition"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-003-novel-cognitive-skill-acquisition-bdnf-synthesis.webp",
+    "imageAlt": "AI-generated illustration: An adult practicing a classical acoustic guitar in a study with concentrated focus and smiling satisfaction.",
+    "imagePrompt": "An adult practicing a classical acoustic guitar in a study with concentrated focus and smiling satisfaction.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 30 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 30,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MAD-007"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-004",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "intergenerational",
+    "title": "Intergenerational Family & Community Dialogue Facilitation",
+    "goal": "Explore intergenerational Family & Community Dialogue Facilitation at a comfortable, adaptable level.",
+    "readiness": "Adult connects with both younger and older generations in family or community.",
+    "steps": [
+      "Host a structured conversation bridging younger (teens/young adults) and older family or community members.",
+      "Pose an evocative theme: 'What was the hardest choice you made in your twenties and what did it teach you?'.",
+      "Act as mediator, validating the perspectives of youth while honoring the life wisdom of elders."
+    ],
+    "completionCriteria": "Facilitates 3 intergenerational discussions with active vocal participation and positive feedback from both older and younger participants.",
+    "safety": [
+      "Maintain neutral mediation; avoid taking generational sides during differences in viewpoint."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-004-intergenerational-family-community-dialogue-facilitation.webp",
+    "imageAlt": "AI-generated illustration: An adult facilitating a warm multigenerational dinner table conversation with children, teenagers, and grandparents.",
+    "imagePrompt": "An adult facilitating a warm multigenerational dinner table conversation with children, teenagers, and grandparents.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 50 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 50,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MAD-009"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-005",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "aerobic_zone2",
+    "title": "Conversational-Pace Aerobic Activity",
+    "goal": "Explore conversational-Pace Aerobic Activity at a comfortable, adaptable level.",
+    "readiness": "Adult engages in regular walking or cycling without cardiac symptoms.",
+    "steps": [
+      "Choose a familiar enjoyable aerobic activity and start easily.",
+      "Increase effort only to a personally manageable pace; at moderate intensity you can talk but not sing.",
+      "Alternate activity and easy recovery as desired, then finish gradually; no fixed heart-rate zone is required."
+    ],
+    "completionCriteria": "Participant tries a comfortable aerobic bout at a personally suitable pace, with rests as needed.",
+    "safety": [
+      "Stop for chest pain, faintness or unusual breathlessness and seek medical advice as appropriate.",
+      "Start with manageable amounts and build gradually; adapt to health conditions and professional advice."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-activity-2020",
+      "cdc-intensity"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-005-zone-2-metabolic-base-mitochondrial-aerobic-protocol.webp",
+    "imageAlt": "AI-generated illustration: A cyclist pedaling at a steady, rhythmic pace along a scenic country road, breathing steadily through nose.",
+    "imagePrompt": "A cyclist pedaling at a steady, rhythmic pace along a scenic country road, breathing steadily through nose.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 45,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [
+      "LS-MAD-001"
+    ],
+    "preparationActivities": [
+      "LS-MAD-013"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-006",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "proprioceptive_balance",
+    "title": "Supported Balance Practice",
+    "goal": "Explore supported Balance Practice at a comfortable, adaptable level.",
+    "readiness": "Adult can stand on flat floor without dizziness.",
+    "steps": [
+      "Stand beside a stable counter with eyes open and hand support as needed.",
+      "Explore gentle weight shifts or a small step while maintaining comfortable support.",
+      "Use a seated alternative if unsteady; no closed-eye, foam-surface or timed balance test is required."
+    ],
+    "completionCriteria": "Participant explores balance beside a stable support, using hand support or seated alternatives as needed.",
+    "safety": [
+      "Keep a stable support within reach and use usual aids; avoid unstable surfaces.",
+      "Stop for dizziness or pain and seek individual advice for new falls or instability."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-movement"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-006-dynamic-postural-balance-ankle-hip-strategy-training.webp",
+    "imageAlt": "AI-generated illustration: An adult practicing single-leg balance with eyes closed on a foam balance pad near a wall for safety.",
+    "imagePrompt": "An adult practicing single-leg balance with eyes closed on a foam balance pad near a wall for safety.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MAD-001"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-007",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "critical_reflection",
+    "title": "Complex Systems Mapping & Second-Order Thinking",
+    "goal": "Explore complex Systems Mapping & Second-Order Thinking at a comfortable, adaptable level.",
+    "readiness": "Adult manages complex organizational, community, or personal responsibilities.",
+    "steps": [
+      "Choose a complex societal, organizational, or community challenge.",
+      "Map first-order effects ('And then what happens?') through to second- and third-order consequences.",
+      "Identify hidden feedback loops, perverse incentives, and systemic leverage points where small interventions produce large impacts."
+    ],
+    "completionCriteria": "Constructs a comprehensive causal loop systems diagram identifying 2 feedback loops and actionable high-leverage intervention points.",
+    "safety": [
+      "Focus on actionable interventions rather than feeling overwhelmed by systemic complexity."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "nia-aging"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-007-complex-systems-mapping-second-order-thinking.webp",
+    "imageAlt": "AI-generated illustration: A professional sketching a complex interconnected causal loop diagram on a glass whiteboard.",
+    "imagePrompt": "A professional sketching a complex interconnected causal loop diagram on a glass whiteboard.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 45,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MAD-003"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-008",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "memory_maintenance",
+    "title": "Episodic Recall & Multi-Domain Dual-Task Puzzles",
+    "goal": "Explore episodic Recall & Multi-Domain Dual-Task Puzzles at a comfortable, adaptable level.",
+    "readiness": "Adult engages with reading, crosswords, or puzzles regularly.",
+    "steps": [
+      "Choose an enjoyable puzzle or a recent event to recall while comfortably seated.",
+      "Use notes or hints as needed and take breaks.",
+      "Keep walking and difficult mental tasks separate if balance or attention is uncertain."
+    ],
+    "completionCriteria": "Participant explores a puzzle or memory prompt in a safe seated setting without a timed score.",
+    "safety": [
+      "Keep exercises stimulating and fun; avoid stressful time pressure."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "nia-cognition"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-008-episodic-recall-multi-domain-dual-task-puzzles.webp",
+    "imageAlt": "AI-generated illustration: An adult solving complex logic grid puzzles while listening to music in a sunlit room.",
+    "imagePrompt": "An adult solving complex logic grid puzzles while listening to music in a sunlit room.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [
+      "LS-MAD-007"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-009",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "wisdom_storytelling",
+    "title": "Narrative Parable & Ethical Wisdom Articulation",
+    "goal": "Explore narrative Parable & Ethical Wisdom Articulation at a comfortable, adaptable level.",
+    "readiness": "Adult reflects on past professional and personal turning points.",
+    "steps": [
+      "Reflect on a pivotal crisis, error, or turning point from your past.",
+      "Structure the experience into a concise 5-minute teaching narrative: Context, Crucible Moment, Epiphany, and Enduring Moral Lesson.",
+      "Deliver the narrative to family, students, or mentees with humble vulnerability."
+    ],
+    "completionCriteria": "Participant drafts or shares a chosen story voluntarily; listener approval is not required.",
+    "safety": [
+      "Ensure self-disclosure is constructive and respectful of boundaries."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-009-narrative-parable-ethical-wisdom-articulation.webp",
+    "imageAlt": "AI-generated illustration: A mentor speaking warmly to a circle of community members, sharing an inspiring story from experience.",
+    "imagePrompt": "A mentor speaking warmly to a circle of community members, sharing an inspiring story from experience.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 45,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MAD-004"
+    ],
+    "suggestedBefore": [
+      "LS-MAD-010"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-010",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "compassionate_advocacy",
+    "title": "Compassionate Civic Advocacy & Public Deposition",
+    "goal": "Explore compassionate Civic Advocacy & Public Deposition at a comfortable, adaptable level.",
+    "readiness": "Adult follows municipal or community issues with passion for positive change.",
+    "steps": [
+      "Identify an urgent community policy issue (public parks, elder care, youth libraries, local conservation).",
+      "Research historical data and community testimonials.",
+      "Deliver a 3-minute persuasive civic testimony before local government or draft an editorial column advocating for public good."
+    ],
+    "completionCriteria": "Participant drafts an evidence-based civic message; publication or public speaking is optional.",
+    "safety": [
+      "Maintain respectful, evidence-based civic discourse."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-010-compassionate-civic-advocacy-public-deposition.webp",
+    "imageAlt": "AI-generated illustration: A civic leader presenting reasoned testimony at a municipal town hall meeting with dignified passion.",
+    "imagePrompt": "A civic leader presenting reasoned testimony at a municipal town hall meeting with dignified passion.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 45 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 45,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MAD-009"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-011",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "empty_nest_reinvention",
+    "title": "Role Transition Adaptation & Relational Renewal",
+    "goal": "Explore role Transition Adaptation & Relational Renewal at a comfortable, adaptable level.",
+    "readiness": "Adult navigates major midlife shifts in family structure or caregiving roles.",
+    "steps": [
+      "Conduct a dedicated dialogue with partner or support group auditing life priorities as child-rearing demands subside.",
+      "Identify 3 new shared creative interests, travel pursuits, or community passions to explore.",
+      "Establish healthy boundaries that respect adult children's independence while offering warm support."
+    ],
+    "completionCriteria": "Participant reflects on a current role or relationship and chooses a feasible next step.",
+    "safety": [
+      "Honor grief for ended life chapters while welcoming new autonomy."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-011-role-transition-adaptation-relational-renewal.webp",
+    "imageAlt": "AI-generated illustration: A mature couple in their early 50s hiking together along a scenic mountain trail, smiling contentedly.",
+    "imagePrompt": "A mature couple in their early 50s hiking together along a scenic mountain trail, smiling contentedly.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 60 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 60,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MAD-002"
+    ],
+    "suggestedBefore": [
+      "LS-MAD-012"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-012",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "existential_reconciliation",
+    "title": "Reflection and Relationship Boundaries",
+    "goal": "Reflect on a personally relevant transition or boundary.",
+    "readiness": "Adult seeks emotional freedom and peaceful closure from earlier conflicts.",
+    "steps": [
+      "Reflect privately on a transition, relationship or boundary you wish to consider.",
+      "Choose a supportive next step, which may be rest, distance, journaling or seeking support.",
+      "Sharing, forgiveness and reconciliation are optional."
+    ],
+    "completionCriteria": "Participant reflects on boundaries or a transition without any obligation to forgive or reconnect.",
+    "safety": [
+      "Keep disclosure voluntary; forgiveness and reconnecting are never required.",
+      "Choose distance or professional support if a relationship is unsafe."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-012-midlife-review-forgiveness-relational-reconciliation.webp",
+    "imageAlt": "AI-generated illustration: A person writing a thoughtful reconciliation letter with fountain pen beside a cup of tea near a calm window.",
+    "imagePrompt": "A person writing a thoughtful reconciliation letter with fountain pen beside a cup of tea near a calm window.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 60 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 60,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MAD-011"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MAD-013",
+    "lifespanStage": "middle_adulthood",
+    "minAge": 40,
+    "maxAge": 65,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "aerobic_routine",
+    "title": "Everyday Aerobic Movement",
+    "goal": "Try an accessible aerobic activity and choose a feasible routine.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Choose enjoyable accessible movement such as walking, wheeling, cycling or seated aerobic activity, and try a short comfortable bout with rests as needed.",
+      "Start with a comfortable amount and build gradually toward adult guidance: 150–300 minutes of moderate or 75–150 minutes of vigorous aerobic activity per week.",
+      "Include strengthening on at least 2 days; at ages 65 and older also plan balance and strength-focused multicomponent activity on at least 3 days, adapted to ability.",
+      "Short bouts can contribute to activity totals; the optional journal session length is not the whole weekly target."
+    ],
+    "completionCriteria": "Participant chooses an accessible activity and a feasible next step without a fitness threshold.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-activity-2020",
+      "cdc-intensity"
+    ],
+    "imageUrl": "assets/adulthood/middle/LS-MAD-013-everyday-aerobic-activity-planning-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Adult in their fifties enjoying a brief easy ride on a stationary bicycle in a bright comfortable exercise room, relaxed posture and manageable effort.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Adult in their fifties enjoying a brief easy ride on a stationary bicycle in a bright comfortable exercise room, relaxed posture and manageable effort. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [],
+    "leadsTo": [
+      "LS-MAD-005"
+    ]
+  }
+]

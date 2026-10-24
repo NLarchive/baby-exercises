@@ -1,0 +1,847 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-001",
+    "lifespanStage": "middle_childhood",
+    "minAge": 6,
+    "maxAge": 8,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "coordination",
+    "title": "Comfortable Ball Catching",
+    "goal": "Explore comfortable Ball Catching at a comfortable, adaptable level.",
+    "readiness": "Child catches large balls with two hands reliably.",
+    "steps": [
+      "Use a large soft ball, stand close and offer a gentle toss or roll.",
+      "Encourage two-hand catching or another comfortable way to stop the ball.",
+      "Adjust distance to make attempts enjoyable."
+    ],
+    "completionCriteria": "Child attempts catching a soft ball with two hands or another comfortable adaptation.",
+    "safety": [
+      "Use soft foam balls to eliminate risk of facial impact injury.",
+      "Ensure adequate clear space around the child."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-movement",
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-001-contralateral-object-catcher.webp",
+    "imageAlt": "AI-generated illustration: A 7-year-old child standing on a lawn, reaching their non-dominant hand across chest to catch a foam ball cleanly.",
+    "imagePrompt": "A 7-year-old child standing on a lawn, reaching their non-dominant hand across chest to catch a foam ball cleanly.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MCH-005"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "LS-ECH-018"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-002",
+    "lifespanStage": "middle_childhood",
+    "minAge": 7.5,
+    "maxAge": 9.5,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "executive_function",
+    "title": "Multi-Step Strategy Board Planning",
+    "goal": "Explore multi-Step Strategy Board Planning at a comfortable, adaptable level.",
+    "readiness": "Child understands game rules and causes/consequences of moves.",
+    "steps": [
+      "Set up a standard board of Checkers or Chess.",
+      "Before moving, require child to state aloud: 'If I move here, my opponent can do X, so then I will do Y'.",
+      "Encourage child to look at least 2 moves ahead before taking their hand off the piece."
+    ],
+    "completionCriteria": "Child articulates and executes a logical 2-step tactical plan during active game play across 3 separate turns.",
+    "safety": [
+      "Keep sessions enjoyable; avoid overly critical tactical correction."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-002-multi-step-strategy-board-planning.webp",
+    "imageAlt": "AI-generated illustration: A student leaning over a wooden checkers board, contemplating their move with an analytical expression.",
+    "imagePrompt": "A student leaning over a wooden checkers board, contemplating their move with an analytical expression.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MCH-011"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-003",
+    "lifespanStage": "middle_childhood",
+    "minAge": 6,
+    "maxAge": 8,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "reading_fluency",
+    "title": "Shared Reading and Retelling",
+    "goal": "Explore shared Reading and Retelling at a comfortable, adaptable level.",
+    "readiness": "Child decodes simple early-reader books independently.",
+    "steps": [
+      "Choose a passage suited to the child’s language, learning experience and interests.",
+      "Read together, listen to audio or take turns.",
+      "Discuss a character, event or interesting fact without timing reading speed."
+    ],
+    "completionCriteria": "Child reads or listens to a personally suitable passage and shares an idea about it; no reading-speed cutoff is used.",
+    "safety": [
+      "Maintain a calm, non-judgmental environment; celebrate effort."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-003-expressive-oral-reading-narrative-summarization.webp",
+    "imageAlt": "AI-generated illustration: A schoolchild sitting comfortably in a beanbag chair reading an illustrated chapter book aloud with expressive tone.",
+    "imagePrompt": "A schoolchild sitting comfortably in a beanbag chair reading an illustrated chapter book aloud with expressive tone.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MCH-012"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "LS-ECH-021"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-004",
+    "lifespanStage": "middle_childhood",
+    "minAge": 6,
+    "maxAge": 8,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "prosocial",
+    "title": "Rule-Based Fair Play & Conflict De-escalation",
+    "goal": "Explore rule-Based Fair Play & Conflict De-escalation at a comfortable, adaptable level.",
+    "readiness": "Child plays simple board and playground games with basic rule awareness.",
+    "steps": [
+      "Engage child in competitive rule-governed game (four-square, board game).",
+      "Explicitly establish rule consensus and agreed dispute settlement (e.g., Rock-Paper-Scissors).",
+      "Coach using neutral 'I-statements' and obligatory end-of-game handshakes."
+    ],
+    "completionCriteria": "Child practises a fair-play or repair strategy with support; frustration is allowed.",
+    "safety": [
+      "Help de-escalate strong emotions before games restart."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-parenting",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-004-rule-based-fair-play-conflict-de-escalation.webp",
+    "imageAlt": "AI-generated illustration: Group of diverse children on a playground shaking hands following a game of four-square with good sportsmanship.",
+    "imagePrompt": "Group of diverse children on a playground shaking hands following a game of four-square with good sportsmanship.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 25 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 25,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MCH-014"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-005",
+    "lifespanStage": "middle_childhood",
+    "minAge": 8.5,
+    "maxAge": 10.5,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "endurance",
+    "title": "Adaptable Active Play Circuit",
+    "goal": "Explore adaptable Active Play Circuit at a comfortable, adaptable level.",
+    "readiness": "Child engages in 30+ minutes of daily physical play without discomfort.",
+    "steps": [
+      "Choose a clear space and a few enjoyable movements such as walking between markers, gentle skipping or side steps.",
+      "Begin easily and let the child choose a comfortable pace.",
+      "Offer short attempts with generous rests; no sprint or fixed number of rounds is required."
+    ],
+    "completionCriteria": "Child participates in an adapted active circuit with breaks and comfortable recovery; no recovery-time test is used.",
+    "safety": [
+      "Ensure proper hydration and warm-up before sprints.",
+      "Check turf or floor for slipping hazards."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-movement"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-005-cardiovascular-agility-interval-circuit.webp",
+    "imageAlt": "AI-generated illustration: Children navigating an agility ladder drill on sports turf with quick high-knee footwork.",
+    "imagePrompt": "Children navigating an agility ladder drill on sports turf with quick high-knee footwork.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 25 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 25,
+      "strenuous": true
+    },
+    "prerequisites": [
+      "LS-MCH-001"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2,
+    "preparationActivities": [
+      "LS-MCH-017"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-006",
+    "lifespanStage": "middle_childhood",
+    "minAge": 9,
+    "maxAge": 11,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "debate",
+    "title": "Structured Persuasive Debate & Evidence Defense",
+    "goal": "Explore structured Persuasive Debate & Evidence Defense at a comfortable, adaptable level.",
+    "readiness": "Child articulates opinions and supports them with simple reasons.",
+    "steps": [
+      "Pick a friendly debate prompt (e.g., 'Should homework be replaced by project exploration?').",
+      "Provide 5 minutes to outline 3 logical claims grounded in reasons.",
+      "Conduct 3-minute presentation, followed by a 2-minute counter-point response from adult/peer."
+    ],
+    "completionCriteria": "Child presents 3 structured logical arguments with calm vocal delivery and articulates a respectful counter-response to opposing feedback.",
+    "safety": [
+      "Focus on ideas rather than personal criticism."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-006-structured-persuasive-debate-evidence-defense.webp",
+    "imageAlt": "AI-generated illustration: A student standing confidently presenting a persuasive point from index cards with polite poise.",
+    "imagePrompt": "A student standing confidently presenting a persuasive point from index cards with polite poise.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MCH-012"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-007",
+    "lifespanStage": "middle_childhood",
+    "minAge": 7,
+    "maxAge": 9,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "rhythm_coordination",
+    "title": "Continuous Jump-Rope Rhythmics",
+    "goal": "Explore continuous Jump-Rope Rhythmics at a comfortable, adaptable level.",
+    "readiness": "Child jumps on two feet rhythmically and hops easily.",
+    "steps": [
+      "Sizing the rope: stand on center; handles should reach armpits.",
+      "Instruct rhythmic wrist rotations while jumping on the balls of both feet.",
+      "Aim for continuous rhythmic rebounding without double-bouncing between turns."
+    ],
+    "completionCriteria": "Child explores skipping or rope rhythm with short attempts and breaks.",
+    "safety": [
+      "Use a clear space with supportive athletic footwear on shock-absorbing surface."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-movement"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-007-continuous-jump-rope-rhythmics.webp",
+    "imageAlt": "AI-generated illustration: A child jumping rope rhythmically on an outdoor playground with balanced posture and light landings.",
+    "imagePrompt": "A child jumping rope rhythmically on an outdoor playground with balanced posture and light landings.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 12 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 12,
+      "strenuous": true
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "LS-MCH-017"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-008",
+    "lifespanStage": "middle_childhood",
+    "minAge": 10,
+    "maxAge": 12,
+    "ageUnit": "years",
+    "domainType": "physical_motor",
+    "domainSubType": "proprioceptive_strength",
+    "title": "Dynamic Postural Core & Kinetic Chain Stabilization",
+    "goal": "Explore dynamic Postural Core & Kinetic Chain Stabilization at a comfortable, adaptable level.",
+    "readiness": "Child can maintain a standard plank for 20 seconds.",
+    "steps": [
+      "On a comfortable mat, explore hands-and-knees balance or a supported standing alternative.",
+      "Try lifting one limb or reaching a short distance only while steady.",
+      "Rest before fatigue; a plank and timed holds are optional, not required."
+    ],
+    "completionCriteria": "Child attempts a comfortable supported core movement without pain; no plank duration is required.",
+    "safety": [
+      "Avoid hyperextension of lumbar spine or sagging hips."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "who-movement"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-008-dynamic-postural-core-kinetic-chain-stabilization.webp",
+    "imageAlt": "AI-generated illustration: A student performing a bird-dog exercise on a gym mat with arm and opposite leg extended horizontally.",
+    "imagePrompt": "A student performing a bird-dog exercise on a gym mat with arm and opposite leg extended horizontally.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-009",
+    "lifespanStage": "middle_childhood",
+    "minAge": 6,
+    "maxAge": 8,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "concrete_operations",
+    "title": "Comparing Shapes and Quantities",
+    "goal": "Explore comparing Shapes and Quantities at a comfortable, adaptable level.",
+    "readiness": "Child counts quantities reliably up to 20.",
+    "steps": [
+      "Fill two identical short, wide glasses with equal colored water.",
+      "Ask child to confirm equality.",
+      "Pour one glass into a tall, narrow glass in front of child.",
+      "Ask: 'Does one have more, or do they still have the same amount? Why?'.",
+      "Encourage reversible reasoning: 'What happens if we pour it back?'."
+    ],
+    "completionCriteria": "Child compares quantities and explains an idea with demonstrations; no stage-of-development diagnosis is made.",
+    "safety": [
+      "Use shatterproof plastic glasses and safe food coloring."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-009-piagetian-volume-number-conservation.webp",
+    "imageAlt": "AI-generated illustration: A child observing water being poured from a short wide glass into a tall skinny beaker with curious engagement.",
+    "imagePrompt": "A child observing water being poured from a short wide glass into a tall skinny beaker with curious engagement.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 12 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 12,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [
+      "LS-MCH-010"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "LS-ECH-020"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-010",
+    "lifespanStage": "middle_childhood",
+    "minAge": 8.5,
+    "maxAge": 10.5,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "information_processing",
+    "title": "Categorical Taxonomy & Venn Diagram Analysis",
+    "goal": "Explore categorical Taxonomy & Venn Diagram Analysis at a comfortable, adaptable level.",
+    "readiness": "Child classifies objects by single attributes easily.",
+    "steps": [
+      "Provide a list of 12 biological organisms with varying attributes (mammals, egg-layers, herbivores, carnivores).",
+      "Draw a 2-circle overlapping Venn diagram.",
+      "Prompt child to place items in correct sections, paying special attention to the intersection area."
+    ],
+    "completionCriteria": "Child correctly classifies 12 items into an overlapping Venn diagram, explaining the intersection properties without error.",
+    "safety": [
+      "Encourage inquiry and allow child to look up facts if uncertain."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-010-categorical-taxonomy-venn-diagram-analysis.webp",
+    "imageAlt": "AI-generated illustration: A child filling in a two-circle overlapping Venn diagram on a desk classifying animals by habitat and diet.",
+    "imagePrompt": "A child filling in a two-circle overlapping Venn diagram on a desk classifying animals by habitat and diet.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MCH-009"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-011",
+    "lifespanStage": "middle_childhood",
+    "minAge": 10,
+    "maxAge": 12,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "metacognition",
+    "title": "Metacognitive Error Analysis & Study Calibration",
+    "goal": "Explore metacognitive Error Analysis & Study Calibration at a comfortable, adaptable level.",
+    "readiness": "Child completes independent schoolwork and homework sets.",
+    "steps": [
+      "Review a completed academic assignment or math problem set containing mistakes.",
+      "Instruct child to classify errors into categories: 'Careless slip', 'Misread question', or 'Did not know concept'.",
+      "Have child write the corrected step-by-step procedure alongside the error explanation."
+    ],
+    "completionCriteria": "Child accurately identifies the root cause of 3 incorrect problems, writes correct solutions, and articulates a prevention strategy for future tests.",
+    "safety": [
+      "Foster a growth mindset: frame mistakes as essential diagnostic clues."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-011-metacognitive-error-analysis-study-calibration.webp",
+    "imageAlt": "AI-generated illustration: A student reviewing marked math homework, circling incorrect steps and writing why the error occurred.",
+    "imagePrompt": "A student reviewing marked math homework, circling incorrect steps and writing why the error occurred.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MCH-002"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-012",
+    "lifespanStage": "middle_childhood",
+    "minAge": 7.5,
+    "maxAge": 9.5,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "written_composition",
+    "title": "Structured Paragraph Architecture & Transition Linking",
+    "goal": "Explore structured Paragraph Architecture & Transition Linking at a comfortable, adaptable level.",
+    "readiness": "Child writes simple sentences with proper capitalization and periods.",
+    "steps": [
+      "Provide a high-interest informational prompt (e.g., 'Why do dolphins use echolocation?').",
+      "Use the 'hamburger model': top bun (topic sentence), 3 fillings (evidence details with transition words 'furthermore', 'for example'), bottom bun (concluding synthesis).",
+      "Have child review and self-edit punctuation."
+    ],
+    "completionCriteria": "Child independently drafts a 5-sentence expository paragraph containing a clear topic sentence, 2 linked supporting details, and a conclusion.",
+    "safety": [
+      "Break task into bite-sized planning, drafting, and editing phases to prevent fatigue."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-012-structured-paragraph-architecture-transition-linking.webp",
+    "imageAlt": "AI-generated illustration: A child writing neatly on lined notebook paper, following a color-coded graphic organizer for paragraph writing.",
+    "imagePrompt": "A child writing neatly on lined notebook paper, following a color-coded graphic organizer for paragraph writing.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 20 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 20,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MCH-003"
+    ],
+    "suggestedBefore": [
+      "LS-MCH-006"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-013",
+    "lifespanStage": "middle_childhood",
+    "minAge": 10.5,
+    "maxAge": 12,
+    "ageUnit": "years",
+    "domainType": "language_comm",
+    "domainSubType": "pragmatic_listening",
+    "title": "Active Listening & Paraphrase Verification",
+    "goal": "Explore active Listening & Paraphrase Verification at a comfortable, adaptable level.",
+    "readiness": "Child listens to stories and carries conversational exchanges.",
+    "steps": [
+      "A speaker shares a 2-minute personal story or complex perspective.",
+      "The child must listen without interrupting.",
+      "Once the speaker finishes, the child must summarize: 'What I heard you say is... and you felt... Did I get that right?'.",
+      "The speaker confirms or clarifies until mutual understanding is reached."
+    ],
+    "completionCriteria": "Child accurately paraphrases the factual essence and underlying emotional tone of a 2-minute spoken passage across 3 trials.",
+    "safety": [
+      "Create a supportive, low-pressure conversational atmosphere."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-connections",
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-013-active-listening-paraphrase-verification.webp",
+    "imageAlt": "AI-generated illustration: A child listening closely to a parent at a table, nodding with thoughtful eye contact and responding thoughtfully.",
+    "imagePrompt": "A child listening closely to a parent at a table, nodding with thoughtful eye contact and responding thoughtfully.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-014",
+    "lifespanStage": "middle_childhood",
+    "minAge": 7.5,
+    "maxAge": 9.5,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "empathy",
+    "title": "Affective Empathy & Upstander Intervention Coaching",
+    "goal": "Explore affective Empathy & Upstander Intervention Coaching at a comfortable, adaptable level.",
+    "readiness": "Child shows sensitivity to emotional states of friends and classmates.",
+    "steps": [
+      "Discuss realistic schoolyard vignettes depicting peer exclusion or teasing.",
+      "Guide child through affective inquiry: 'How does that student feel right now? What are 2 safe ways to include them?'.",
+      "Roleplay stepping in with simple inclusive phrasing: 'Hey, do you want to play four-square with us?'."
+    ],
+    "completionCriteria": "Child identifies signs of peer distress in scenarios and demonstrates at least 2 constructive prosocial inclusion strategies during roleplay.",
+    "safety": [
+      "Emphasize child's own physical and emotional safety when intervening."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections",
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-014-affective-empathy-upstander-intervention-coaching.webp",
+    "imageAlt": "AI-generated illustration: A child walking over to invite a solitary classmate sitting on a schoolyard bench to join in a play circle.",
+    "imagePrompt": "A child walking over to invite a solitary classmate sitting on a schoolyard bench to join in a play circle.",
+    "reps": "Optional planning example: 1 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 1,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MCH-004"
+    ],
+    "suggestedBefore": [
+      "LS-MCH-016"
+    ],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 2
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-015",
+    "lifespanStage": "middle_childhood",
+    "minAge": 8.5,
+    "maxAge": 10.5,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "self_regulation",
+    "title": "Comfortable Breathing Pause",
+    "goal": "Explore comfortable Breathing Pause at a comfortable, adaptable level.",
+    "readiness": "Child can articulate feelings of stress, frustration, or sensory overload.",
+    "steps": [
+      "Invite a comfortable seat or quiet pause.",
+      "If wanted, take a gentle breath in and let it out slowly without holding or forcing it.",
+      "Choose another soothing activity if breathing focus feels uncomfortable."
+    ],
+    "completionCriteria": "Child tries a comfortable slow breath or another calming pause and may stop at any time.",
+    "safety": [
+      "Stop for dizziness, tingling or discomfort; do not hold the breath or demand calmness."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections",
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-015-physiological-down-regulation-reset-breathing.webp",
+    "imageAlt": "AI-generated illustration: A child sitting upright in a calm corner with one hand on belly, inhaling deeply with serene focus.",
+    "imagePrompt": "A child sitting upright in a calm corner with one hand on belly, inhaling deeply with serene focus.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-016",
+    "lifespanStage": "middle_childhood",
+    "minAge": 10,
+    "maxAge": 12,
+    "ageUnit": "years",
+    "domainType": "social_emotional",
+    "domainSubType": "cooperative_teamwork",
+    "title": "Collaborative Multi-Role Group Project Management",
+    "goal": "Explore collaborative Multi-Role Group Project Management at a comfortable, adaptable level.",
+    "readiness": "Child participates in group activities and follows shared guidelines.",
+    "steps": [
+      "Engage child in a team endeavor (science fair project, family cooking, community service).",
+      "Have the group write down each member's specific responsibility and timeline.",
+      "Conduct a mid-project check-in where members share progress and offer mutual assistance without blaming."
+    ],
+    "completionCriteria": "Child completes a multi-member group project fulfilling assigned individual duties while providing constructive assistance to teammates.",
+    "safety": [
+      "Encourage equal division of labor and mutual respect."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-connections",
+      "cdc-parenting"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-016-collaborative-multi-role-group-project-management.webp",
+    "imageAlt": "AI-generated illustration: Students collaborating around a science fair tri-fold board, smiling and assembling materials together.",
+    "imagePrompt": "Students collaborating around a science fair tri-fold board, smiling and assembling materials together.",
+    "reps": "Optional planning example: 2 days per week; adapt or skip as needed.",
+    "duration": "Up to 35 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 2,
+      "minutes": 35,
+      "strenuous": false
+    },
+    "prerequisites": [
+      "LS-MCH-014"
+    ],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 3
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-MCH-017",
+    "lifespanStage": "middle_childhood",
+    "minAge": 6,
+    "maxAge": 12,
+    "ageUnit": "years",
+    "domainType": "cognitive",
+    "domainSubType": "healthy_routines",
+    "title": "Daily Movement and Sleep Planning",
+    "goal": "Practise daily movement and sleep planning through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Choose enjoyable accessible activity opportunities with family support.",
+      "Plan toward an average of 60 minutes of moderate-to-vigorous activity per day across the week, with varied vigorous, muscle- and bone-strengthening play on at least 3 days.",
+      "Plan sleep opportunities of 9–12 hours and record one feasible routine change."
+    ],
+    "completionCriteria": "Child and caregiver choose a manageable activity or sleep routine step.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "who-activity-2020",
+      "cdc-sleep"
+    ],
+    "imageUrl": "assets/childhood/middle/LS-MCH-017-daily-movement-and-sleep-planning-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Ten-year-old and caregiver planning enjoyable daily movement using a paper calendar with simple activity pictures, a ball and comfortable shoes nearby, no legible words or performance graphs.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Ten-year-old and caregiver planning enjoyable daily movement using a paper calendar with simple activity pictures, a ball and comfortable shoes nearby, no legible words or performance graphs. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [],
+    "leadsTo": [
+      "LS-MCH-005",
+      "LS-MCH-007",
+      "LS-ADO-024"
+    ]
+  }
+]

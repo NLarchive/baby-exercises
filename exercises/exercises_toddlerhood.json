@@ -1,0 +1,1620 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "EX-022",
+    "lifespanStage": "toddlerhood",
+    "minAge": 18,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "fine_motor",
+    "title": "Dynamic 4-Block Tower Stacking",
+    "goal": "Explore dynamic 4-Block Tower Stacking at a comfortable, adaptable level.",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "steps": [
+      "Sit directly opposite the toddler at a low table or on the floor.",
+      "Model stacking two 1.5-inch wooden blocks slowly, emphasizing a clean vertical release.",
+      "Hand blocks one by one to the child, encouraging them to stack vertically without bumping the structure."
+    ],
+    "completionCriteria": "Child explores placing blocks on one another; a four-block tower is an optional challenge.",
+    "safety": [
+      "Use smooth wooden or foam blocks free of splinters or sharp corners.",
+      "Use large age-rated blocks or objects that cannot fit wholly into the mouth; inspect for detachable pieces."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-18-months",
+      "cdc-2-years"
+    ],
+    "imageUrl": "assets/toddlerhood/EX-022-dynamic-4-block-tower-stacking.webp",
+    "imageAlt": "AI-generated illustration: A 20-month-old toddler sitting upright on a padded play mat, placing a fourth colorful wooden block on top of a three-block stack.",
+    "imagePrompt": "A 20-month-old toddler sitting upright on a padded play mat, placing a fourth colorful wooden block on top of a three-block stack.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-025"
+    ],
+    "preparationActivities": [
+      "EX-NEW-008"
+    ]
+  },
+  {
+    "id": "EX-026",
+    "lifespanStage": "toddlerhood",
+    "minAge": 12,
+    "maxAge": 16,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "expressive_speech",
+    "title": "Meaningful First Word Association",
+    "goal": "Explore meaningful First Word Association at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-026-meaningful-first-word-association.webp",
+    "imagePrompt": "A 13-month-old toddler in a playroom pointing enthusiastically toward a family dog while vocalizing clearly to their smiling parent.",
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "prerequisites": [],
+    "completionCriteria": "Child uses or attempts a meaningful word, sign or other communication; acknowledge approximations.",
+    "steps": [
+      "Identify 2-3 high-salience concepts (e.g., 'Mama', 'Dada', 'Ball', 'Milk').",
+      "Consistently pair the exact single-word label with the object or person during direct interaction.",
+      "When the child vocalizes an approximation (e.g., 'ba' for ball), validate enthusiastically: 'Yes, Ball!'."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 13-month-old toddler in a playroom pointing enthusiastically toward a family dog while vocalizing clearly to their smiling parent.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-018",
+      "EX-LAT-015"
+    ],
+    "leadsTo": [
+      "EX-NEW-011"
+    ]
+  },
+  {
+    "id": "EX-028",
+    "lifespanStage": "toddlerhood",
+    "minAge": 15,
+    "maxAge": 20,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "symbolic_imitation",
+    "title": "Everyday Tool Use & Domestic Imitation",
+    "goal": "Explore everyday Tool Use & Domestic Imitation at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-028-everyday-tool-use-domestic-imitation.webp",
+    "imagePrompt": "A 16-month-old toddler holding a child-sized brush, playfully pretending to brush the hair of a stuffed plush bear with intense concentration.",
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "prerequisites": [],
+    "completionCriteria": "Child imitates a familiar action with a safe toy or everyday tool, with modelling if wanted.",
+    "steps": [
+      "Provide safe play versions of common domestic tools (e.g., hairbrush, dust cloth, spoon, toy phone).",
+      "Model a purposeful action (e.g., brushing hair or wiping a table surface).",
+      "Hand the tool to the toddler and invite them: 'Your turn to brush!'.",
+      "Encourage application to toys, dolls, or self."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 16-month-old toddler holding a child-sized brush, playfully pretending to brush the hair of a stuffed plush bear with intense concentration.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-025",
+      "EX-LAT-008",
+      "EX-LAT-014"
+    ],
+    "leadsTo": [
+      "EX-NEW-013"
+    ]
+  },
+  {
+    "id": "EX-ATT-003",
+    "lifespanStage": "toddlerhood",
+    "minAge": 16,
+    "maxAge": 22,
+    "ageUnit": "months",
+    "domainType": "social_emotional",
+    "domainSubType": "autonomy_regulation",
+    "title": "Secure-Base Exploratory Range & Reconnection",
+    "goal": "Explore secure-Base Exploratory Range & Reconnection at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-ATT-003-secure-base-exploratory-range-reconnection.webp",
+    "imagePrompt": "A 17-month-old toddler playing happily with wooden blocks 10 feet away from their seated parent, looking back with an easy smile of reassurance.",
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "prerequisites": [],
+    "completionCriteria": "Child explores at a comfortable distance and can seek reassurance freely; no distance, time or attachment score is used.",
+    "steps": [
+      "In an open, safe, baby-proof room or enclosed park area, sit stationary on the floor.",
+      "Allow the mobile toddler to wander 10-15 feet away to explore interesting toys.",
+      "Remain visually available without intruding or looking at mobile devices.",
+      "When the toddler looks back or runs over for an 'emotional refuel' hug, greet them with warmth and reassurance, then encourage them to return to play."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 17-month-old toddler playing happily with wooden blocks 10 feet away from their seated parent, looking back with an easy smile of reassurance.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-027"
+    ]
+  },
+  {
+    "id": "EX-LAT-004",
+    "lifespanStage": "toddlerhood",
+    "minAge": 12,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "receptive_language",
+    "title": "Receptive Pointing & Body Identification",
+    "goal": "Explore receptive Pointing & Body Identification at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-004-receptive-pointing-body-identification.webp",
+    "imagePrompt": "A 13-month-old sitting on a lap looking at an open picture book, pointing their index finger directly at an illustration of a yellow duck.",
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "prerequisites": [],
+    "completionCriteria": "Child looks toward or indicates a familiar named object; requested pointing and body-part naming can develop later.",
+    "steps": [
+      "During shared play, name a familiar object and wait for a look, reach or point.",
+      "Model pointing without demanding imitation.",
+      "Later, invite pointing to pictures or body parts; accept speech, signs or another indication."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists",
+      "cdc-2-years"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 13-month-old sitting on a lap looking at an open picture book, pointing their index finger directly at an illustration of a yellow duck.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-024",
+      "EX-LAT-006"
+    ],
+    "preparationActivities": [
+      "EX-NEW-009",
+      "EX-NEW-012"
+    ]
+  },
+  {
+    "id": "EX-LAT-006",
+    "lifespanStage": "toddlerhood",
+    "minAge": 14,
+    "maxAge": 18,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "executive_function",
+    "title": "One-Step Functional Command Execution",
+    "goal": "Explore one-Step Functional Command Execution at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-006-one-step-functional-command-execution.webp",
+    "imagePrompt": "A 15-month-old toddler picking up a rubber ball from the carpet and proudly handing it directly into a parent's outstretched open palm.",
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "prerequisites": [],
+    "completionCriteria": "Child attempts one familiar direction with a gesture if needed, progressing to words alone when ready.",
+    "steps": [
+      "Gain the child's attention while they are engaged in quiet play.",
+      "State a clear, simple command without gesturing: 'Please give me the ball' or 'Put the bear on the chair'.",
+      "Pause and maintain neutral posture for 5 seconds to let their working memory process the request.",
+      "Praise warmly once the task is performed correctly."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 15-month-old toddler picking up a rubber ball from the carpet and proudly handing it directly into a parent's outstretched open palm.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-LAT-004"
+    ],
+    "preparationActivities": [
+      "EX-NEW-011"
+    ]
+  },
+  {
+    "id": "EX-LAT-007",
+    "lifespanStage": "toddlerhood",
+    "minAge": 15,
+    "maxAge": 22,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "visual_motor",
+    "title": "Palmar-Grasp Scribbling & Mark Making",
+    "goal": "Explore palmar-Grasp Scribbling & Mark Making at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-007-palmar-grasp-scribbling-mark-making.webp",
+    "imagePrompt": "A 16-month-old toddler sitting at a low craft table, grasping a thick egg-shaped crayon in a fist and making spontaneous colorful marks on a big paper roll.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child explores making marks with a chunky non-toxic crayon; no timed performance is required.",
+    "steps": [
+      "Tape a large sheet of heavy butcher paper securely to a low table or floor.",
+      "Provide non-toxic, chunky triangular or palm-grasp crayons.",
+      "Demonstrate sweeping lines and circular scribbles enthusiastically.",
+      "Hand the crayon to the toddler, allowing a palmar-fisted grasp, and encourage them to make marks across the page."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 16-month-old toddler sitting at a low craft table, grasping a thick egg-shaped crayon in a fist and making spontaneous colorful marks on a big paper roll.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-023"
+    ],
+    "leadsTo": [
+      "LS-ECH-019"
+    ]
+  },
+  {
+    "id": "EX-LAT-008",
+    "lifespanStage": "toddlerhood",
+    "minAge": 12,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "self_care",
+    "title": "Spoon Self-Feeding Skill Builder",
+    "goal": "Explore spoon Self-Feeding Skill Builder at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-008-spoon-self-feeding-skill-builder.webp",
+    "imagePrompt": "A 17-month-old toddler sitting in a high chair holding a thick short-handled spoon, scooping oatmeal from a suction bowl and bringing it to their mouth.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child attempts to bring a spoon toward the mouth with support as needed; spilling is expected.",
+    "steps": [
+      "Place thick, cohesive food (e.g., yogurt, oatmeal, applesauce) into a suction-base bowl.",
+      "Offer a short, wide-handled toddler spoon.",
+      "Guide the child through the mechanics: dipping/scooping, leveling the spoon, and bringing it horizontally to the mouth.",
+      "Allow natural messy self-practice without premature adult takeover."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Child is feeding-ready, able to remain upright with appropriate support and interested in the offered food or drink. Use textures and assistance suited to current swallowing and motor skills.",
+    "safety": [
+      "Keep the child seated upright and supervise continuously. Use developmentally appropriate food textures and avoid choking hazards.",
+      "Offer small amounts, allow the child to set the pace, and stop if swallowing is difficult."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists",
+      "cdc-2-years"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 17-month-old toddler sitting in a high chair holding a thick short-handled spoon, scooping oatmeal from a suction bowl and bringing it to their mouth.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-LAT-002",
+      "EX-028"
+    ],
+    "leadsTo": [
+      "LS-ECH-017"
+    ]
+  },
+  {
+    "id": "EX-LAT-009",
+    "lifespanStage": "toddlerhood",
+    "minAge": 15,
+    "maxAge": 22,
+    "ageUnit": "months",
+    "domainType": "social_emotional",
+    "domainSubType": "cooperation",
+    "title": "Turn-Taking Social Sharing Game",
+    "goal": "Explore turn-Taking Social Sharing Game at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-009-turn-taking-social-sharing-game.webp",
+    "imagePrompt": "A parent and 16-month-old toddler seated facing each other on a carpet, rolling a medium yellow rubber ball back and forth with smiling reciprocity.",
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "prerequisites": [],
+    "completionCriteria": "Child and caregiver share a brief supported turn-taking interaction and may stop or seek comfort at any time.",
+    "steps": [
+      "Sit close and offer rolling a soft ball or passing a safe toy.",
+      "Model one short turn and invite a return without insisting.",
+      "Accept a pause, refusal or need for comfort and stop when interest fades."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A parent and 16-month-old toddler seated facing each other on a carpet, rolling a medium yellow rubber ball back and forth with smiling reciprocity.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-ATT-002"
+    ]
+  },
+  {
+    "id": "EX-LAT-010",
+    "lifespanStage": "toddlerhood",
+    "minAge": 16,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "fine_motor",
+    "title": "Board Book Page Turning & Handling",
+    "goal": "Explore board Book Page Turning & Handling at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-010-board-book-page-turning-handling.webp",
+    "imagePrompt": "A close-up of an 18-month-old's hands carefully gripping the edge of a thick board book page with index and thumb and flipping it forward.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child enjoys looking at or handling a book with a caregiver; multiple pages may turn together.",
+    "steps": [
+      "Share a sturdy book, name pictures and respond to the child’s interests.",
+      "Invite handling or turning pages with help; several pages may move together.",
+      "Keep story time enjoyable rather than testing page precision."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A close-up of an 18-month-old's hands carefully gripping the edge of a thick board book page with index and thumb and flipping it forward.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-023"
+    ],
+    "preparationActivities": [
+      "EX-NEW-012"
+    ],
+    "leadsTo": [
+      "LS-ECH-021"
+    ]
+  },
+  {
+    "id": "EX-LAT-011",
+    "lifespanStage": "toddlerhood",
+    "minAge": 18,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "gross_motor",
+    "title": "Stair Marking Time with Handrail Support",
+    "goal": "Explore stair Marking Time with Handrail Support at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-011-stair-marking-time-with-handrail-support.webp",
+    "imagePrompt": "An 18-month-old child walking up a flight of home carpeted stairs holding a parent's hand and a low rail, placing both feet steadily on each step.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child attempts a low stair with close adult support; ascent and descent are practised separately.",
+    "steps": [
+      "Use a single low step or the bottom stair with caregiver directly beside and below the child.",
+      "Offer secure hand support and invite a step up only when ready.",
+      "Practise returning down separately with close assistance; do not attempt a full flight as a test."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Keep stairs gated outside directly supervised practice.",
+      "Spot continuously, use non-slip footing and stop for fatigue or instability."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: An 18-month-old child walking up a flight of home carpeted stairs holding a parent's hand and a low rail, placing both feet steadily on each step.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-027"
+    ],
+    "preparationActivities": [
+      "EX-NEW-016"
+    ]
+  },
+  {
+    "id": "EX-LAT-012",
+    "lifespanStage": "toddlerhood",
+    "minAge": 18,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "gross_motor",
+    "title": "Emerging Running Play",
+    "goal": "Explore emerging running play at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-012-run-and-stop-dynamic-balance-game.webp",
+    "imagePrompt": "A 20-month-old toddler running playfully on a grassy lawn, suddenly braking and standing balanced with wide feet upon hearing 'Stop!'.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child explores moving faster than walking in a clear space, without a sprint, flight-phase or immediate-stop test.",
+    "steps": [
+      "Choose a clear, level space and stay close.",
+      "Invite walking or emerging running at the child’s own pace.",
+      "Allow gradual slowing and rests; do not demand sprints or sudden freezes."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 20-month-old toddler running playfully on a grassy lawn, suddenly braking and standing balanced with wide feet upon hearing 'Stop!'.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-027"
+    ]
+  },
+  {
+    "id": "EX-LAT-013",
+    "lifespanStage": "toddlerhood",
+    "minAge": 18,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "gross_motor",
+    "title": "Ball Throw & Kick Exploration Circuit",
+    "goal": "Explore ball Throw & Kick Exploration Circuit at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-013-ball-throw-kick-exploration-circuit.webp",
+    "imagePrompt": "A 21-month-old toddler standing on a playground lawn, lifting one foot back to kick a lightweight soccer ball resting in front of them.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child explores kicking or throwing a soft ball; distance, style and combined performance are not required.",
+    "steps": [
+      "Offer a large soft ball on a clear level floor.",
+      "Model a gentle kick or throw and invite any attempt.",
+      "Practise either skill separately without distance targets."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 21-month-old toddler standing on a playground lawn, lifting one foot back to kick a lightweight soccer ball resting in front of them.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-027"
+    ],
+    "leadsTo": [
+      "LS-ECH-018"
+    ]
+  },
+  {
+    "id": "EX-LAT-014",
+    "lifespanStage": "toddlerhood",
+    "minAge": 18,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "symbolic_play",
+    "title": "Emerging Pretend Play with Dolls/Plush",
+    "goal": "Explore emerging Pretend Play with Dolls/Plush at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-014-emerging-pretend-play-with-dolls-plush.webp",
+    "imagePrompt": "A 22-month-old toddler covering a plush teddy bear with a small baby blanket on the floor and gently patting it as if putting it to sleep.",
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "prerequisites": [],
+    "completionCriteria": "Child imitates or initiates a simple pretend action with help if wanted.",
+    "steps": [
+      "Provide a plush bear or doll along with simple props (a toy baby bottle, cup, small blanket).",
+      "Model an empathetic routine: 'Teddy is thirsty! Let's give teddy some water.' Feed the doll with the cup.",
+      "Pass the prop to the toddler and invite them to care for the toy: 'Can you tuck teddy in bed?'.",
+      "Encourage combinations of at least 2 pretend acts."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 22-month-old toddler covering a plush teddy bear with a small baby blanket on the floor and gently patting it as if putting it to sleep.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-028"
+    ]
+  },
+  {
+    "id": "EX-LAT-015",
+    "lifespanStage": "toddlerhood",
+    "minAge": 19,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "expressive_syntax",
+    "title": "Two-Word Semantic Phrase Combination",
+    "goal": "Explore two-Word Semantic Phrase Combination at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-015-two-word-semantic-phrase-combination.webp",
+    "imagePrompt": "A 22-month-old toddler looking at a parent with an expressive face, holding up an empty cup and stating 'More milk' with clear intentionality.",
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "prerequisites": [],
+    "completionCriteria": "Child attempts a meaningful two-word combination or an equivalent accessible communication; repeated trials are not required.",
+    "steps": [
+      "When the child uses a single-word utterance (e.g., 'Ball'), acknowledge and expand by one word: 'Big ball!' or 'Roll ball!'.",
+      "Introduce common two-word functional combinations: Agent + Action ('Daddy go'), Modifier + Noun ('More milk'), or Action + Object ('Open door').",
+      "Pause expectantly for 4-5 seconds during snack or play to invite the child to produce the multi-word combination."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-parenting",
+      "cdc-checklists"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 22-month-old toddler looking at a parent with an expressive face, holding up an empty cup and stating 'More milk' with clear intentionality.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-026"
+    ],
+    "preparationActivities": [
+      "EX-NEW-011"
+    ]
+  },
+  {
+    "id": "EX-LAT-016",
+    "lifespanStage": "toddlerhood",
+    "minAge": 20,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "gross_motor",
+    "title": "Supported Floor Movement Play",
+    "goal": "Explore supported Floor Movement Play at a comfortable, adaptable level.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "imageUrl": "assets/toddlerhood/EX-LAT-016-jump-off-low-step-exploration.webp",
+    "imagePrompt": "A 22-month-old toddler holding a parent's hands, joyfully jumping off a 2-inch wooden foam floor block with both feet clearing the surface.",
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "prerequisites": [],
+    "completionCriteria": "Child explores bending and straightening the knees on a level floor with close support; jumping is not required.",
+    "steps": [
+      "Stand together on a clear, level floor with support as needed.",
+      "Model bending and straightening knees or moving to music.",
+      "Let the child copy or choose another movement; no step, leap or two-foot landing is required."
+    ],
+    "schemaVersion": 1,
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "readiness": "Baby is comfortable, interested and able to try the steps with the stated support. Follow current readiness rather than completing earlier activities. Stop when baby disengages.",
+    "safety": [
+      "Provide close, attentive adult supervision throughout. Stop for distress or fatigue; never force a movement.",
+      "Use a clear stable play space and age-appropriate materials; keep small non-food objects out of reach."
+    ],
+    "adaptations": [
+      "Make the activity shorter or easier and offer more support.",
+      "Accept different ways of moving or communicating; follow the child’s cues."
+    ],
+    "sources": [
+      "cdc-2-years",
+      "cdc-30-months"
+    ],
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "imageAlt": "AI-generated illustration: A 22-month-old toddler holding a parent's hands, joyfully jumping off a 2-inch wooden foam floor block with both feet clearing the surface.",
+    "suggestedBefore": [],
+    "complexity": 1,
+    "relatedActivities": [
+      "EX-027"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-008",
+    "lifespanStage": "toddlerhood",
+    "minAge": 12,
+    "maxAge": 18,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "stacking",
+    "title": "Two-Block Building",
+    "goal": "Practise two-block building through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Use large age-rated blocks on a stable floor or tray.",
+      "Model putting one on another and invite an attempt, helping if wanted."
+    ],
+    "completionCriteria": "Child explores placing one block on another without an accuracy test.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-15-months"
+    ],
+    "imageUrl": "assets/toddlerhood/EX-NEW-008-two-block-building-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Fifteen-month-old seated securely on floor putting one large age-rated smooth block on another with a parent beside them, exactly two large blocks.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Fifteen-month-old seated securely on floor putting one large age-rated smooth block on another with a parent beside them, exactly two large blocks. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-025"
+    ],
+    "leadsTo": [
+      "EX-022"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-009",
+    "lifespanStage": "toddlerhood",
+    "minAge": 12,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "intentional_communication",
+    "title": "Point to Request and Share",
+    "goal": "Practise point to request and share through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Notice the child’s interest in a toy or everyday event.",
+      "Model pointing to request help or share interest, and name what they notice.",
+      "Respond to looks, reaches, signs or words; do not withhold necessities to demand a gesture."
+    ],
+    "completionCriteria": "Child has an opportunity to request or share interest through a comfortable communication method.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-15-months",
+      "cdc-18-months"
+    ],
+    "imageUrl": "assets/toddlerhood/EX-NEW-009-point-to-request-and-share-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Sixteen-month-old pointing toward a large familiar toy with interest, attentive parent at child eye level looking toward the same toy and responding warmly.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Sixteen-month-old pointing toward a large familiar toy with interest, attentive parent at child eye level looking toward the same toy and responding warmly. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-ATT-002"
+    ],
+    "leadsTo": [
+      "EX-LAT-004"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-011",
+    "lifespanStage": "toddlerhood",
+    "minAge": 12,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "vocabulary",
+    "title": "Everyday Words and Gestured Directions",
+    "goal": "Practise everyday words and gestured directions through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Name familiar objects and respond to the child’s attempts in their home languages.",
+      "Offer one familiar direction with a gesture, reducing help only as ready.",
+      "Model a new word or sign without demanding repetition."
+    ],
+    "completionCriteria": "Child explores a meaningful word, sign or familiar direction with help as needed.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-15-months",
+      "cdc-18-months"
+    ],
+    "imageUrl": "assets/toddlerhood/EX-NEW-011-everyday-words-and-gestured-directions-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Eighteen-month-old at a low table with a large toy ball and bear, parent naming the bear and using an inviting gesture, child looking toward it, no written words.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Eighteen-month-old at a low table with a large toy ball and bear, parent naming the bear and using an inviting gesture, child looking toward it, no written words. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-026"
+    ],
+    "leadsTo": [
+      "EX-LAT-006",
+      "EX-LAT-015"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-013",
+    "lifespanStage": "toddlerhood",
+    "minAge": 15,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "daily_living",
+    "title": "Helping With Dressing and Washing",
+    "goal": "Practise helping with dressing and washing through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "During care routines, invite an arm through a sleeve or hands toward washing.",
+      "Offer help and time for the child to join without pressure."
+    ],
+    "completionCriteria": "Child participates in part of a familiar care routine with support.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-18-months"
+    ],
+    "imageUrl": "assets/toddlerhood/EX-NEW-013-helping-with-dressing-and-washing-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Eighteen-month-old sitting securely while helping put an arm through a loose sleeve, parent gently assisting, relaxed ordinary care routine.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Eighteen-month-old sitting securely while helping put an arm through a loose sleeve, parent gently assisting, relaxed ordinary care routine. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-028"
+    ],
+    "leadsTo": [
+      "LS-ECH-017"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-014",
+    "lifespanStage": "toddlerhood",
+    "minAge": 18,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "bilateral_problem_solving",
+    "title": "Safe Container Lids and Toy Buttons",
+    "goal": "Practise safe container lids and toy buttons through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Offer a large easy-open container or age-rated button toy without loose batteries or parts.",
+      "Model holding the container with one hand and exploring its lid with the other.",
+      "Let the child try a lid, switch or button with help."
+    ],
+    "completionCriteria": "Child explores coordinated container or toy controls without a precision requirement.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-2-years"
+    ],
+    "imageUrl": "assets/toddlerhood/EX-NEW-014-safe-container-lids-and-toy-buttons-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Two-year-old seated at low table holding a large easy-open container with one hand and lifting its broad lid with the other, no small parts, no batteries.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Two-year-old seated at low table holding a large easy-open container with one hand and lifting its broad lid with the other, no small parts, no batteries. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-025"
+    ],
+    "leadsTo": [
+      "LS-ECH-006"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-015",
+    "lifespanStage": "toddlerhood",
+    "minAge": 15,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "social_emotional",
+    "domainSubType": "empathy",
+    "title": "Feelings and Comfort Play",
+    "goal": "Practise feelings and comfort play through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Name a simple feeling in a story or everyday moment.",
+      "Model a gentle supportive response and invite the child’s preferred response.",
+      "Offer comfort without requiring touch, an apology or a particular expression."
+    ],
+    "completionCriteria": "Child participates in a responsive feelings or comfort interaction in their own way.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "cdc-2-years"
+    ],
+    "imageUrl": "assets/toddlerhood/EX-NEW-015-feelings-and-comfort-play-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Two-year-old and caregiver sharing a picture book about feelings, caregiver offering a reassuring open hand and toddler holding a large plush bear, calm optional interaction.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Two-year-old and caregiver sharing a picture book about feelings, caregiver offering a reassuring open hand and toddler holding a large plush bear, calm optional interaction. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-ATT-001"
+    ],
+    "leadsTo": [
+      "LS-ECH-003"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "EX-NEW-016",
+    "lifespanStage": "toddlerhood",
+    "minAge": 15,
+    "maxAge": 24,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "climbing",
+    "title": "Supported Low Climbing",
+    "goal": "Practise supported low climbing through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Use a low stable age-appropriate surface on a clear floor.",
+      "Stay close enough to support the trunk as the child explores climbing up or down.",
+      "Help the child return safely; do not use an elevated obstacle course."
+    ],
+    "completionCriteria": "Child explores a low supported transition with help and may stop at any time.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Offer help, fewer steps or a shorter opportunity.",
+      "Use speech, signs, pictures or another comfortable way to participate."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-18-months"
+    ],
+    "imageUrl": "assets/toddlerhood/EX-NEW-016-supported-low-climbing-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Eighteen-month-old exploring climbing onto a very low broad stable foam platform on a clear floor, caregiver crouched directly beside with both hands supporting trunk, tiny height and no precarious edge.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Eighteen-month-old exploring climbing onto a very low broad stable foam platform on a clear floor, caregiver crouched directly beside with both hands supporting trunk, tiny height and no precarious edge. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 7 days per week; adapt or skip as needed.",
+    "duration": "Up to 3 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 7,
+      "minutes": 3,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-LAT-001",
+      "EX-NEW-010"
+    ],
+    "leadsTo": [
+      "EX-LAT-011"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-001",
+    "lifespanStage": "toddlerhood",
+    "minAge": 24,
+    "maxAge": 36,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "coordination",
+    "title": "Floor-Level Two-Foot Jump Play",
+    "goal": "Explore floor-Level Two-Foot Jump Play at a comfortable, adaptable level.",
+    "readiness": "Child runs steadily and walks up stairs with support.",
+    "steps": [
+      "Use a clear non-slip level floor and stay within reach.",
+      "Model a small knee bend and optional two-foot jump in place.",
+      "Invite a playful attempt with support; do not introduce an elevated landing test."
+    ],
+    "completionCriteria": "Child attempts a floor-level two-foot jump or knee bend, with support and no required landing test.",
+    "safety": [
+      "Ensure landing area is non-slip and cushioned.",
+      "Keep holds gentle without pulling arms."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-30-months"
+    ],
+    "imageUrl": "assets/toddlerhood/LS-ECH-001-two-foot-jump-landing.webp",
+    "imageAlt": "AI-generated illustration: A 2.5-year-old child in sneakers jumping off a low 3-inch wooden gym step, landing with parallel feet and bent knees.",
+    "imagePrompt": "A 2.5-year-old child in sneakers jumping off a low 3-inch wooden gym step, landing with parallel feet and bent knees.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "leadsTo": [
+      "LS-ECH-002"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-004",
+    "lifespanStage": "toddlerhood",
+    "minAge": 24,
+    "maxAge": 36,
+    "ageUnit": "months",
+    "domainType": "social_emotional",
+    "domainSubType": "attachment",
+    "title": "Exploration and Reassurance",
+    "goal": "Explore exploration and Reassurance at a comfortable, adaptable level.",
+    "readiness": "Toddler walks autonomously and initiates short play excursions.",
+    "steps": [
+      "Offer toys in a safe space while remaining available nearby.",
+      "Let the child choose how far to explore and respond warmly to requests for reassurance."
+    ],
+    "completionCriteria": "Child explores and seeks reassurance at a comfortable distance without time or attachment scoring.",
+    "safety": [
+      "Keep the exploration area fully enclosed and clear of hazards.",
+      "Caregiver stays seated and attentive without distraction."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers voluntary practice with shared attention, connection and expressing preferences or feelings.",
+    "sources": [
+      "who-care",
+      "cdc-connections"
+    ],
+    "imageUrl": "assets/toddlerhood/LS-ECH-004-secure-base-distance-check-ins.webp",
+    "imageAlt": "AI-generated illustration: A toddler exploring a safe indoor playground, pausing 15 feet away to turn, wave, and make eye contact with seated parent.",
+    "imagePrompt": "A toddler exploring a safe indoor playground, pausing 15 feet away to turn, wave, and make eye contact with seated parent.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 15 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 15,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "leadsTo": [
+      "LS-ECH-016"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-005",
+    "lifespanStage": "toddlerhood",
+    "minAge": 24,
+    "maxAge": 36,
+    "ageUnit": "months",
+    "domainType": "language_comm",
+    "domainSubType": "narrative",
+    "title": "Multi-Word Expressive Turn-Taking",
+    "goal": "Explore multi-Word Expressive Turn-Taking at a comfortable, adaptable level.",
+    "readiness": "Child uses 50+ single words and 2-word word combinations.",
+    "steps": [
+      "Read an illustrated storybook together.",
+      "Ask open-ended questions: 'Where is the puppy running?'.",
+      "Expand child's utterance (e.g., if child says 'Puppy run', respond 'Yes, the little brown puppy runs outside!').",
+      "Pause for child's response."
+    ],
+    "completionCriteria": "Child shares a short back-and-forth using emerging words, signs or other communication.",
+    "safety": [
+      "Keep conversational exchange encouraging; avoid direct corrections."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with communication and listening using speech, signs, pictures or assistive tools as appropriate.",
+    "sources": [
+      "cdc-2-years",
+      "cdc-3-years"
+    ],
+    "imageUrl": "assets/toddlerhood/LS-ECH-005-multi-word-expressive-turn-taking.webp",
+    "imageAlt": "AI-generated illustration: A caregiver and child reading an open picture book together, pointing at animals and forming phrases.",
+    "imagePrompt": "A caregiver and child reading an open picture book together, pointing at animals and forming phrases.",
+    "reps": "Optional planning example: 5 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 5,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "leadsTo": [
+      "LS-ECH-008",
+      "LS-ECH-014"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-006",
+    "lifespanStage": "toddlerhood",
+    "minAge": 24,
+    "maxAge": 36,
+    "ageUnit": "months",
+    "domainType": "cognitive",
+    "domainSubType": "categorization",
+    "title": "Simple Shape and Color Matching",
+    "goal": "Explore simple Shape and Color Matching at a comfortable, adaptable level.",
+    "readiness": "Child can grasp and orient small blocks.",
+    "steps": [
+      "Offer one large safe shape and matching opening.",
+      "Model fitting it without forcing; add more shapes or simple color matching as interest grows."
+    ],
+    "completionCriteria": "Child attempts to match a simple shape or color with modelling and help as needed.",
+    "safety": [
+      "Ensure sorting pieces are larger than 1.5 inches to prevent choking hazard.",
+      "Use large age-rated blocks or objects that cannot fit wholly into the mouth; inspect for detachable pieces."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers practice with exploration, learning and problem solving at a personally suitable level.",
+    "sources": [
+      "cdc-30-months",
+      "cdc-3-years"
+    ],
+    "imageUrl": "assets/toddlerhood/LS-ECH-006-primary-color-shape-shape-sorter-sorting.webp",
+    "imageAlt": "AI-generated illustration: A toddler sorting round red discs and square blue cubes into matching partitioned boxes.",
+    "imagePrompt": "A toddler sorting round red discs and square blue cubes into matching partitioned boxes.",
+    "reps": "Optional planning example: 4 days per week; adapt or skip as needed.",
+    "duration": "Up to 10 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 4,
+      "minutes": 10,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "preparationActivities": [
+      "EX-NEW-014"
+    ],
+    "leadsTo": [
+      "LS-ECH-020",
+      "LS-ECH-012"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-017",
+    "lifespanStage": "toddlerhood",
+    "minAge": 24,
+    "maxAge": 48,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "daily_living",
+    "title": "Everyday Dressing and Utensil Practice",
+    "goal": "Practise everyday dressing and utensil practice through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Invite helping with loose clothing or using an age-appropriate utensil.",
+      "Offer time and help, accepting spills and partial participation."
+    ],
+    "completionCriteria": "Child participates in a chosen everyday self-care step.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-3-years",
+      "cdc-4-years"
+    ],
+    "imageUrl": "assets/toddlerhood/LS-ECH-017-everyday-dressing-and-utensil-practice-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Three-year-old seated securely helping put on a loose jacket while caregiver gently supports and guides a sleeve, everyday self-care, fully clothed.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Three-year-old seated securely helping put on a loose jacket while caregiver gently supports and guides a sleeve, everyday self-care, fully clothed. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-NEW-013",
+      "EX-LAT-008"
+    ],
+    "leadsTo": [
+      "LS-ECH-009"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-019",
+    "lifespanStage": "toddlerhood",
+    "minAge": 24,
+    "maxAge": 72,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "mark_making",
+    "title": "Drawing and Early Writing Play",
+    "goal": "Practise drawing and early writing play through short, responsive opportunities.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Offer chunky non-toxic drawing materials and a stable surface.",
+      "Model a line, circle or familiar mark and follow the child’s interest.",
+      "Later offer letter or name exploration without demanding a particular grip."
+    ],
+    "completionCriteria": "Child explores meaningful marks or drawing at a personally suitable level.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-3-years",
+      "cdc-4-years",
+      "cdc-5-years"
+    ],
+    "imageUrl": "assets/toddlerhood/LS-ECH-019-drawing-and-early-writing-play-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Four-year-old drawing a circle and a few colorful simple marks with a chunky non-toxic crayon on paper at a low table, adult nearby, no writing perfection.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Four-year-old drawing a circle and a few colorful simple marks with a chunky non-toxic crayon on paper at a low table, adult nearby, no writing perfection. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-LAT-007"
+    ],
+    "leadsTo": [
+      "LS-ECH-007"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "LS-ECH-021",
+    "lifespanStage": "toddlerhood",
+    "minAge": 30,
+    "maxAge": 48,
+    "ageUnit": "months",
+    "domainType": "physical_motor",
+    "domainSubType": "coordination",
+    "title": "Single-Page Book Exploration",
+    "goal": "Explore handling and turning sturdy book pages with support.",
+    "readiness": "Choose this when comfortable and interested, using support suited to current ability. No earlier activity completion is required.",
+    "steps": [
+      "Share a sturdy book in a comfortable supported position.",
+      "Model lifting and turning one thick page, offering help if wanted.",
+      "Accept multiple pages together, pauses or another way of joining the story."
+    ],
+    "completionCriteria": "Child explores turning a sturdy page with support; precise consecutive turns are not required.",
+    "safety": [
+      "Supervise children closely and use age-appropriate materials with no detachable small parts.",
+      "Stop for discomfort, fatigue or disengagement; never force movement or a response."
+    ],
+    "adaptations": [
+      "Use shorter attempts, accessible materials or additional support.",
+      "Adapt the activity to your language, interests, health and current ability; participation does not require unassisted performance."
+    ],
+    "benefits": "Offers adaptable practice with movement or everyday hand skills. Choose support and effort that feel comfortable.",
+    "sources": [
+      "cdc-30-months"
+    ],
+    "imageUrl": "assets/toddlerhood/LS-ECH-021-floor-jumping-and-page-turning-reviewed-2026-10-23.webp",
+    "imageAlt": "AI-generated illustration: Three-year-old seated next to caregiver turning one thick page of a sturdy picture book, warm accessible reading activity, no jump shown.",
+    "imagePrompt": "Use case: photorealistic-natural. Asset type: single square website activity photograph, 1024x1024. Scene: Three-year-old seated next to caregiver turning one thick page of a sturdy picture book, warm accessible reading activity, no jump shown. Style: warm realistic candid editorial lifestyle photography, soft natural daylight, warm neutral palette, uncluttered real home or community setting, varied inclusive people, natural anatomy, whole relevant posture and support visible. Constraints: exactly this activity; safe age-appropriate materials; no text, labels, watermarks, logos, medical claims, timers or performance scores. For any infant: fully awake, airway clear, continuous caregiver supervision and no sleep setting. Illustrative scene, not a clinical demonstration.",
+    "reps": "Optional planning example: 3 days per week; adapt or skip as needed.",
+    "duration": "Up to 5 minutes per planned opportunity, with breaks or shorter attempts as needed.",
+    "schedule": {
+      "daysPerWeek": 3,
+      "minutes": 5,
+      "strenuous": false
+    },
+    "prerequisites": [],
+    "suggestedBefore": [],
+    "kind": "activity",
+    "reviewStatus": "source-informed-not-clinically-validated",
+    "reviewedAt": "2026-10-23",
+    "complexity": 1,
+    "relatedActivities": [],
+    "preparationActivities": [
+      "EX-LAT-010"
+    ],
+    "leadsTo": [
+      "LS-ECH-015",
+      "LS-MCH-003"
+    ]
+  }
+]
